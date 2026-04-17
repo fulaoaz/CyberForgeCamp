@@ -1,0 +1,15 @@
+site
+.vscode
+doc
+.DS_Store
+EX
+docs/hc-reverse/change.py
+
+# 本地首页内容编辑器（不纳入版本库）
+docs/index_editor.html
+
+# pdm
+.pdm-python
+pdm.lock
+pyproject.toml
+国内赛事_CN_JSON_变更说明.md
