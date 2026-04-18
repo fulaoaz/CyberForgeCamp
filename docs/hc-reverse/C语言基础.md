@@ -248,7 +248,7 @@ printf("%s",str2 + 1); // 输出 anana
 
 下面是一个常见结构：
 ```c
-if(!strcmp(Str1,"HelloCTF{example_flag}")){
+if(!strcmp(Str1,"CyberForgeCamp{example_flag}")){
     printf("You Got it!");
 }
 else{
@@ -264,10 +264,10 @@ else{
 
 下面是一个例子：
 ```c
-char origin[]="HelloCTF{Strcpy_Flag}";
+char origin[]="CyberForgeCamp{Strcpy_Flag}";
 char Str1[100];
 strcpy(Str1,origin);
-printf("%s",Str1); // 输出 HelloCTF{Strcpy_Flag}
+printf("%s",Str1); // 输出 CyberForgeCamp{Strcpy_Flag}
 ```
 #### strlen
 下面是 `strlen` ，也就是 `string length` 计算字符串长度。

@@ -6,9 +6,9 @@ comments: true
 
 > 版权声明：
 >
-> ​	文档源于项目[ProbiusOfficial/Hello-CTF: 针对0基础新手编写的CTF快速入门手册 (github.com)](https://github.com/ProbiusOfficial/Hello-CTF)
+> 本文已整理并收录进 CyberForgeCamp 文档体系。
 >
-> ​	原作者为 白猫。
+> 原作者为 白猫。
 
 在ctf比赛中，misc方向是必考的一个方向，其中，图片隐写也是最常见的题目类型，在本篇文章中，将教授以下内容
 

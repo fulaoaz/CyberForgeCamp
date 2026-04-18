@@ -42,10 +42,10 @@ comments: true
 
 - `eval()` 函数: 将字符串作为PHP代码执行。 —— 像这类函数都属于代码执行的函数。
     ```php
-    eval("echo 'Hello CTF';");
+    eval("echo 'CyberForgeCamp';");
     - - - - -
     <?php
-        $code = 'echo "Hello CTF";';
+        $code = 'echo "CyberForgeCamp";';
         eval($code);
     ?>
     ```

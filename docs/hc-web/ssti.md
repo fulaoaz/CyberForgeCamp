@@ -5,7 +5,7 @@ comments: true
 
 # 模板注入初步
 
-> [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)
+> CyberForgeCamp 文档专题整理。
 
 ## 前置知识
 
@@ -17,7 +17,7 @@ comments: true
 
 它们通常包含两个基本部分：静态内容和动态占位符。
 
-比如下图为 Hello-CTFtime 项目中，渲染比赛列表的时候用到的模板：
+比如下图为 CyberForgeCamp 赛事数据 项目中，渲染比赛列表的时候用到的模板：
 
 **绿色** 部分为 **静态内容** ，而 **橙色** 部分则是 **动态占位符** 
 

@@ -1,8 +1,8 @@
 version: '0'
 services:
-  hello-ctf:
+  cyberforgecamp:
     build: .
-    image: hello-ctf
-    container_name: hello-ctf
+    image: cyberforgecamp
+    container_name: cyberforgecamp
     ports:
       - "8000:8000"

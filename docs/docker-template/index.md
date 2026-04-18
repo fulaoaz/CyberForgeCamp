@@ -36,7 +36,7 @@ hide:
 
 > 一般情况下，CTF题目动态FLAG使用环境变量注入的方式来实现:
 >
-> `docker run -dtP -e FLAG=HelloCTF{This1sFl4g} [imagesName:Tag]`
+> `docker run -dtP -e FLAG=CyberForgeCamp{This1sFl4g} [imagesName:Tag]`
 >
 > 而上面所说的注入类型 "`$xxx`" xxx就是FLAG的变量名。
 
@@ -124,7 +124,7 @@ sed -i ""s/\r//"" docker-entrypoint.sh
 
 每个容器模板均为独立封装，您可以在每个容器模板文件夹中找到对应的 README 文件，请在使用前仔细阅读，如有任何疑问请加入项目中的  **[CTF-Archives售后快速服务群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=KFamhBpmURTZpndhc0MI7_1l3a6Xezrf&authKey=Yenwm7%2B%2F%2FT%2BtSXCSyr%2B7fYS47Ot0MwFqesH4HOLT8ZADE2e9XO6AS96HQvjxh%2B%2BG&noverify=0&group_code=894957229)**  联系维护人员获取帮助。
 
-当然，我们也在 [**Hello-CTF 命题部分**](https://hello-ctf.com/Create/) 页面提供命题相关的教程，也附带本项目的所有文档，欢迎访问查阅。
+当然，我们也在 [**CyberForgeCamp 命题部分**](https://tianjihub.github.io/CyberForgeCamp/Create/) 页面提供命题相关的教程，也附带本项目的所有文档，欢迎访问查阅。
 
 !!! note "一般情况"
 

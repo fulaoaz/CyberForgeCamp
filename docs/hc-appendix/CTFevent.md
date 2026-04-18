@@ -8,9 +8,9 @@ comments: true
 ### 📅CTF赛事
 
 **国内赛事 https://www.su-sanha.cn/events/**
-  - 使用API进行获取：http://event.hello-ctf.com/cn_CTF
+  - 可直接访问 CyberForgeCamp 文档站中的赛事数据文件：`/Event/json/CN.json`
     ```json
-    " API地址 " : "http://event.hello-ctf.com/cn_CTF"
+    " API地址 " : "/Event/json/CN.json"
     " 调用方法 " :"/GET"
     " 返回格式 " :"json"
     [
@@ -38,10 +38,10 @@ comments: true
  <br>  
 
 **国外赛事 https://ctftime.org/**
-- 使用API进行获取：http://event.hello-ctf.com/global_CTF
+- 可直接访问 CyberForgeCamp 文档站中的赛事数据文件：`/Event/json/Global.json`
 
   ```json
-  " API地址 " : "http://event.hello-ctf.com/global_CTF"
+  " API地址 " : "/Event/json/Global.json"
   " 调用方法 " :"/GET"
   " 返回格式 " :"json"
   [

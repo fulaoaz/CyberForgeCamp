@@ -4,7 +4,7 @@ ENV PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple
 RUN pip install --upgrade pip
 RUN apk add --no-cache build-base
 
-WORKDIR /Hello-CTF
+WORKDIR /CyberForgeCamp
 
 COPY requirements.txt ./requirements.txt
 RUN pip install -r requirements.txt

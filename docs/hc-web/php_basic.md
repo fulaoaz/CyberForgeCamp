@@ -30,7 +30,7 @@ PHP 中，变量以 **$** 符号开始，后面跟着变量的名称，并且变
 $x_int = 1024;
 $y_int = 0xFFF;
 $float_num = 1.5;
-$txt_string = "Hello CTF!";
+$txt_string = "CyberForgeCamp!";
 $stat_Boolean = true;
 ?>
 ```
@@ -68,7 +68,7 @@ $stat_Boolean = true;
 
 ```php
 <?php
-echo "Hello CTF 很有趣！";
+echo "CyberForgeCamp 很有趣！";
 ?>
 ```
 
@@ -108,11 +108,11 @@ highlight_file(__FILE__); //代码高亮的显示当前文件内容
 
 **$_GET** —— 接受 GET 请求传递的参数。
 
-**示例**：`example.com/index.php?book=HELLOCTF`，你可以使用 `$_GET['book']` 来获取相应的值。
+**示例**：`example.com/index.php?book=CyberForgeCamp`，你可以使用 `$_GET['book']` 来获取相应的值。
 
 **$_POST** —— 接受 POST 请求传递的参数。
 
-**示例**：对 `example.com/index.php` 进行 POST 传参，参数名为 `book` 内容为 `HelloCTF`，你可以使用 `$_POST['book']` 来获取相应的值。
+**示例**：对 `example.com/index.php` 进行 POST 传参，参数名为 `book` 内容为 `CyberForgeCamp`，你可以使用 `$_POST['book']` 来获取相应的值。
 
 **$_REQUEST** —— 接受 GET 和 POST 以及 Cookie 请求传递的参数。
 

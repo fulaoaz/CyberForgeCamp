@@ -47,7 +47,7 @@ comments: true
 
 ### 强弱类型比较
 
-官方文档位置：[https://www.php.net/manual/zh/language.operators.comparison.php](https://www.php.net/manual/zh/language.operators.comparison.php)
+官方文档位置：<https://www.php.net/manual/zh/language.operators.comparison.php>
 
 **==**  弱类型比较, 仅要求两边变量类型转换后的值相等
 
@@ -525,7 +525,7 @@ create_function(string $args, string $code): string
 
 ReflectionClass 和 Exception 里面可以执行其它函数
 
-[PHP官方文档 - FilesystemIterator 列目录]([https://www.php.net/manual/zh/filesystemiterator.construct.php](https://www.php.net/manual/zh/filesystemiterator.construct.php))
+[PHP官方文档 - FilesystemIterator 列目录](https://www.php.net/manual/zh/filesystemiterator.construct.php)
 
 ```php
 new Exception(system('xx'))

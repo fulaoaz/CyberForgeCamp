@@ -6,9 +6,9 @@ comments: true
 
 > 版权声明：
 >
-> ​	文档源于项目[ProbiusOfficial/Hello-CTF: 针对0基础新手编写的CTF快速入门手册 (github.com)](https://github.com/ProbiusOfficial/Hello-CTF)
+> 本文已整理并收录进 CyberForgeCamp 文档体系。
 >
-> ​	原作者为 GaoNengwWw
+> 原作者为 GaoNengwWw
 
 流量分析与取证在misc中也是较为常见的题目，流量分析主要是根据元数据（不是通信内容本身）识别对手活动和通信模式，每条记录多达几兆字节的全部活动内容，可能只产生100字节的元数据，如端点（包括ip地址和域名）、端口、收发字节数、连接时长及起止时间，我们将这样一组元数据称为“网络流”（network flows）。
 

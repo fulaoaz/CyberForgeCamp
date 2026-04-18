@@ -375,7 +375,7 @@ REOREREREREREOREREREREREREOOOREOREREREREOREREREOREREREOOREOREREREREOREREREREREOR
 
 ??? Question "为什么更可能的是替换型而不是位移型？"  
     其实原因很简单，如果被编码的元素是位移型编码的，最终的编码呈现出来不应该只出现2种元素。  
-    比如如果原文是`Hello CTF`，经过密钥为3的凯撒位移密码结果应该为`Khoor FWI`，所以这里我们更倾向于使用的是替换型。  
+    比如如果原文是`CyberForgeCamp`，经过密钥为3的凯撒位移密码结果应该为`Khoor FWI`，所以这里我们更倾向于使用的是替换型。  
     当然这个说法并不绝对，比如我可能已经提前把编码前的原文处理成了一种只有两种元素的新内容呢？  
     所以脑子不要太死板，misc手还是很需要脑洞的。
 

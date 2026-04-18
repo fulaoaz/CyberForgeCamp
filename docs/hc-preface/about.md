@@ -31,29 +31,29 @@ comments: true
 
 本项目围绕CTF分为了下面几个板块.  
 
-### **[HelloCTF](https://hello-ctf.com/) (/HC)** 
+### **[CyberForgeCamp](https://tianjihub.github.io/CyberForgeCamp/) (/HC)** 
 
-HelloCTF项目的核心部分，包含CTF各个方向 (包括但不限于MISC,WEB,CRYPTO,REVERSE,PWN),覆盖入门到提高各个阶段,每个知识点享有配套题目。 
+CyberForgeCamp项目的核心部分，包含CTF各个方向 (包括但不限于MISC,WEB,CRYPTO,REVERSE,PWN),覆盖入门到提高各个阶段,每个知识点享有配套题目。 
 
-### **[赛事](https://hello-ctf.com/ET/) Event (/ET)**
+### **[赛事](https://tianjihub.github.io/CyberForgeCamp/ET/) Event (/ET)**
 
 涵盖CTF 国内外 即将进行、正在进行、已经结束的所有比赛信息。
 
 对于有办赛需求的团队提供相关支持。
 
-### **[工具](https://hello-ctf.com/hc-toolkit/) CTFhc-toolkit (/hc-toolkit)** 
+### **[工具](https://tianjihub.github.io/CyberForgeCamp/hc-toolkit/) CTFhc-toolkit (/hc-toolkit)** 
 
 与项目 [CTFtools-wiki](https://github.com/ProbiusOfficial/CTFtools-wiki) 同步，分类收录各种 CTF 工具。  
 
-### **[团队](https://hello-ctf.com/TB/) TeamBuilding (/TB)** 
+### **[团队](https://tianjihub.github.io/CyberForgeCamp/TB/) TeamBuilding (/TB)** 
 应对高校CTF战队 / 网络安全社团 等建设，提供必要的解决方案(如培训资料，公文模板，比赛材料申报等)
 
-### **[扩展](https://hello-ctf.com/EE) Extension (/EE)** 
+### **[扩展](https://tianjihub.github.io/CyberForgeCamp/EE) Extension (/EE)** 
 目前围绕容器技术提供如Docker的相关教学以及命题技巧和封装教程。  
 
 后续会更新如何从CTF过渡到安全实战领域，以及CTFer会面临的就业问题。
 
-### **[CTF档案馆](https://hello-ctf.com/Archive) Archives (/Archive)** 
+### **[CTF档案馆](https://tianjihub.github.io/CyberForgeCamp/Archive) Archives (/Archive)** 
 
 收录CTF相关内容，包括但不限于: 
 

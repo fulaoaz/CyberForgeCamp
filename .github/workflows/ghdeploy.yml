@@ -1,54 +1,63 @@
-name: Deploy to GitHub Pages and Automatically update
+name: Deploy CyberForgeCamp Docs
+
 on:
   push:
     branches:
-      - master
       - main
   schedule:
-    - cron: "0 */6 * * *"
-  repository_dispatch:
-    types: [Hello-CTFTime]
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  deploy_and_update:
+  deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.9
-          
-      - name: Install libxml2-dev and libxslt-dev
-        run: |
-              sudo apt-get update
-              sudo apt-get install -y libxml2-dev libxslt-dev --fix-missing
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: pre_build
+      - name: Rebuild repository-local documentation assets
         run: python build.py
 
-      - name: Deploy MkDocs
-        run: mkdocs gh-deploy --force
+      - name: Build MkDocs site
+        run: python -m mkdocs build --strict
 
-      - name: Check for changes
-        id: check_changes
+      - name: Commit refreshed event pages
         run: |
-          git add docs/hc-archive/friends.md
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "CHANGES=true" >> $GITHUB_ENV
-          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/home/index.md docs/Event/index.md docs/Event/Upcoming_events.md docs/Event/Now_running.md docs/Event/Past_events.md
+          git diff --cached --quiet || git commit -m "Automatically update"
+          git push
 
-      - name: Commit and push changes
-        if: env.CHANGES == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          commit_message: Automatically update
+          path: ./site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

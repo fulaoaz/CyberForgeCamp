@@ -742,7 +742,7 @@ int main(){
 运行结果：
 
 ```bash
-┌──(kali㉿kali)──<Just CTF For Pwn>──[~/hello-ctf/srop]
+┌──(kali㉿kali)──<Just CTF For Pwn>──[~/pwn-lab/srop]
 └─(PLANA)--> ./test                                 
 it's works!
 zsh: segmentation fault  ./test
@@ -778,7 +778,7 @@ zsh: segmentation fault  ./test
 
 ### SROP题目示例
 
-我们首先先给出[题目](https://github.com/eroorvbsyes-hotmail/hello-ctf-pwn/tree/main/files)
+我们首先先给出题目附件与对应环境文件。
 
 先用
 

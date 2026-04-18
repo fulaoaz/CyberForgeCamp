@@ -13,7 +13,7 @@ comments: true
 ```python
 import base64
 
-s = b'Hello CTF'
+s = b'CyberForgeCamp'
 print(base64.b64encode(s))
 ```
 
@@ -23,7 +23,7 @@ print(base64.b64encode(s))
 #include <stdio.h>
 
 int main() {
-  printf("Hello CTF");
+  printf("CyberForgeCamp");
   return 0;
 }
 ```
