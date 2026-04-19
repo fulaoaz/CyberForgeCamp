@@ -149,6 +149,12 @@ CyberForgeCamp/
 
 本仓库内置一套基于 **MkDocs Material** 的在线文档站实现，用于把训练内容、导航、赛事页与专题页统一发布出来。
 
+### GitHub Pages 访问入口
+
+- 在线页面首页：<https://tianjihub.github.io/CyberForgeCamp/>
+- 推荐从首页进入后，按导航依次查看 `00-Basics`、`01-CTF`、`02-RedTeam`、`03-Labs`、`04-Resources`、`05-Contest`
+- 想直接查看赛事 page 页面：<https://tianjihub.github.io/CyberForgeCamp/05-Contest/events/>
+
 ### 本地预览
 
 ```bash

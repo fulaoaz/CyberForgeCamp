@@ -127,6 +127,16 @@ CyberForgeCamp/
 
 ---
 
+## 🌐 Pages Guide
+
+The documentation site is published through GitHub Pages and the main entry point is:
+
+- Site homepage: <https://tianjihub.github.io/CyberForgeCamp/>
+- Start from the homepage and navigate through `00-Basics`, `01-CTF`, `02-RedTeam`, `03-Labs`, `04-Resources`, and `05-Contest`
+- Direct contest page entry: <https://tianjihub.github.io/CyberForgeCamp/05-Contest/events/>
+
+---
+
 ## 🧪 Practical Activities
 
 - **Weekly Challenge**: A new VM or CTF problem every weekend, writeup published the following week.

@@ -28,12 +28,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Detect GitHub Pages enablement token
+        id: pages_token
+        shell: bash
+        env:
+          PAGES_ENABLEMENT_TOKEN: ${{ secrets.PAGES_ENABLEMENT_TOKEN }}
+        run: |
+          if [ -n "$PAGES_ENABLEMENT_TOKEN" ]; then
+            echo "has_token=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_token=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Configure GitHub Pages
-        if: ${{ secrets.PAGES_ENABLEMENT_TOKEN == '' }}
+        if: ${{ steps.pages_token.outputs.has_token == 'false' }}
         uses: actions/configure-pages@v6
 
       - name: Configure and enable GitHub Pages
-        if: ${{ secrets.PAGES_ENABLEMENT_TOKEN != '' }}
+        if: ${{ steps.pages_token.outputs.has_token == 'true' }}
         uses: actions/configure-pages@v6
         with:
           enablement: true
