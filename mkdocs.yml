@@ -54,8 +54,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/TianJiHub/CyberForgeCamp
-    - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/27109929
 
 plugins:
   - search
@@ -127,144 +125,145 @@ nav:
 
   - 00-Basics:
       - 前言与入门:
-          - hc-preface/index.md
-          - 关于本书: hc-preface/about.md
-          - 阅读方式: hc-preface/usage.md
-          - 参与共建: hc-preface/join.md
-          - AI时代：在正式开始之前: hc-preface/faceAI.md
+          - 00-Basics/index.md
+          - 关于本书: 00-Basics/about.md
+          - 阅读方式: 00-Basics/usage.md
+          - 参与共建: 00-Basics/join.md
+          - AI时代：在正式开始之前: 00-Basics/faceAI.md
       - 环境准备:
-          - hc-env/index.md
-          - 工具一览: hc-env/CTFtool.md
-          - Docker 环境: hc-env/Docker_On_Linux.md
-          - Crypto 环境: hc-env/Crypto.md
+          - 00-Basics/environment/index.md
+          - 工具一览: 00-Basics/environment/CTFtool.md
+          - Docker 环境: 00-Basics/environment/Docker_On_Linux.md
+          - Crypto 环境: 00-Basics/environment/Crypto.md
 
   - 01-CTF:
       - Misc:
-          - hc-misc/index.md
-          - 信息收集: hc-misc/osint.md
-          - 编码扩展: hc-misc/Encode_extra.md
-          - 文件基础: hc-misc/file.md
-          - 压缩包: hc-misc/Archivefile.md
-          - 图片隐写: hc-misc/stego.md
-          - 文件隐写: hc-misc/file_stego.md
-          - 音频隐写: hc-misc/audio_stego.md
-          - 流量分析: hc-misc/pcap.md
-          - 工控类: hc-misc/industrial.md
-          - 内存取证: hc-misc/memory.md
-          - 文件签名表: hc-misc/file_sign.md
+          - 01-CTF/misc/index.md
+          - 信息收集: 01-CTF/misc/osint.md
+          - 编码扩展: 01-CTF/misc/Encode_extra.md
+          - 文件基础: 01-CTF/misc/file.md
+          - 压缩包: 01-CTF/misc/Archivefile.md
+          - 图片隐写: 01-CTF/misc/stego.md
+          - 文件隐写: 01-CTF/misc/file_stego.md
+          - 音频隐写: 01-CTF/misc/audio_stego.md
+          - 流量分析: 01-CTF/misc/pcap.md
+          - 工控类: 01-CTF/misc/industrial.md
+          - 内存取证: 01-CTF/misc/memory.md
+          - 文件签名表: 01-CTF/misc/file_sign.md
       - Web:
-          - hc-web/index.md
-          - Web 入门题单: hc-web/web_start.md
-          - 敏感信息泄露: hc-web/sensitive_info.md
-          - PHP 基础: hc-web/php_basic.md
-          - PHP 反序列化基础: hc-web/php_unser_base.md
-          - PHP 特性: hc-tags/web/PHP_features.md
-          - SQL 注入: hc-web/sql_injection.md
-          - XSS 攻击: hc-web/xss.md
-          - 文件包含: hc-web/include.md
-          - SSTI 注入: hc-web/ssti.md
-          - XXE 注入: hc-web/xxe.md
-          - SSRF 注入: hc-web/ssrf.md
-          - PHP 代码审计: hc-web/php_code_audit.md
-          - RCE: hc-web/rce.md
-          - 文件上传: hc-web/file_upload.md
-          - 目录穿越: hc-web/dir_traversal.md
-          - 逻辑漏洞: hc-web/logical_vuln.md
-          - 任意文件读取: hc-web/any_file_read.md
+          - 01-CTF/web/index.md
+          - Web 入门题单: 01-CTF/web/web_start.md
+          - 敏感信息泄露: 01-CTF/web/sensitive_info.md
+          - PHP 基础: 01-CTF/web/php_basic.md
+          - PHP 反序列化基础: 01-CTF/web/php_unser_base.md
+          - PHP 特性: 01-CTF/tags/web/PHP_features.md
+          - SQL 注入: 01-CTF/web/sql_injection.md
+          - XSS 攻击: 01-CTF/web/xss.md
+          - 文件包含: 01-CTF/web/include.md
+          - SSTI 注入: 01-CTF/web/ssti.md
+          - XXE 注入: 01-CTF/web/xxe.md
+          - SSRF 注入: 01-CTF/web/ssrf.md
+          - PHP 代码审计: 01-CTF/web/php_code_audit.md
+          - RCE: 01-CTF/web/rce.md
+          - 文件上传: 01-CTF/web/file_upload.md
+          - 目录穿越: 01-CTF/web/dir_traversal.md
+          - 逻辑漏洞: 01-CTF/web/logical_vuln.md
+          - 任意文件读取: 01-CTF/web/any_file_read.md
       - Crypto:
-          - hc-crypto/index.md
-          - 前情提要: hc-crypto/Recap.md
-          - 编码基础: hc-crypto/Encode.md
-          - 古典密码: hc-crypto/Classicalcipher.md
-          - 现代密码: hc-crypto/Moderncipher.md
+          - 01-CTF/crypto/index.md
+          - 前情提要: 01-CTF/crypto/Recap.md
+          - 编码基础: 01-CTF/crypto/Encode.md
+          - 古典密码: 01-CTF/crypto/Classicalcipher.md
+          - 现代密码: 01-CTF/crypto/Moderncipher.md
       - Reverse:
-          - hc-reverse/index.md
-          - 引导篇：灵魂 FAQ: hc-reverse/引导篇：灵魂FAQ.md
-          - C 语言基础: hc-reverse/C语言基础.md
-          - 存储结构: hc-reverse/存储结构.md
-          - 可执行文件: hc-reverse/Quick Start：可执行文件.md
-          - 从零开始的 IDA: hc-reverse/从零开始的IDA.md
-          - IDA 动态调试: hc-reverse/IDA动态调试.md
-          - 基本运算: hc-reverse/基本运算.md
-          - 编码基础: hc-reverse/编码基础.md
-          - 字节流算法: hc-reverse/字节流算法.md
-          - 分组密码: hc-reverse/分组密码.md
-          - z3 约束求解: hc-reverse/z3约束求解.md
-          - x86 汇编初步: hc-reverse/Quick Start：ASM汇编.md
-          - 花指令: hc-reverse/花指令.md
-          - 加壳: hc-reverse/从零开始的壳.md
-          - VM: hc-reverse/VM.md
-          - SMC: hc-reverse/SMC.md
-          - 异常处理: hc-reverse/异常处理.md
-          - 多线程: hc-reverse/多线程.md
-          - TLS 回调函数: hc-reverse/TLS回调函数.md
-          - 反调试: hc-reverse/反调试.md
-          - 控制流平坦化: hc-reverse/控制流平坦化.md
-          - 符号执行: hc-reverse/符号执行.md
-          - Python: hc-reverse/Python.md
-          - .NET: hc-reverse/NET.md
-          - Rust: hc-reverse/Rust.md
-          - JavaScript: hc-reverse/JavaScript.md
-          - Android 平台: hc-reverse/Android.md
-          - 解题技巧: hc-reverse/解题技巧.md
+          - 01-CTF/reverse/index.md
+          - 引导篇：灵魂 FAQ: 01-CTF/reverse/引导篇：灵魂FAQ.md
+          - C 语言基础: 01-CTF/reverse/C语言基础.md
+          - 存储结构: 01-CTF/reverse/存储结构.md
+          - 可执行文件: 01-CTF/reverse/Quick Start：可执行文件.md
+          - 从零开始的 IDA: 01-CTF/reverse/从零开始的IDA.md
+          - IDA 动态调试: 01-CTF/reverse/IDA动态调试.md
+          - 基本运算: 01-CTF/reverse/基本运算.md
+          - 编码基础: 01-CTF/reverse/编码基础.md
+          - 字节流算法: 01-CTF/reverse/字节流算法.md
+          - 分组密码: 01-CTF/reverse/分组密码.md
+          - z3 约束求解: 01-CTF/reverse/z3约束求解.md
+          - x86 汇编初步: 01-CTF/reverse/Quick Start：ASM汇编.md
+          - 花指令: 01-CTF/reverse/花指令.md
+          - 加壳: 01-CTF/reverse/从零开始的壳.md
+          - VM: 01-CTF/reverse/VM.md
+          - SMC: 01-CTF/reverse/SMC.md
+          - 异常处理: 01-CTF/reverse/异常处理.md
+          - 多线程: 01-CTF/reverse/多线程.md
+          - TLS 回调函数: 01-CTF/reverse/TLS回调函数.md
+          - 反调试: 01-CTF/reverse/反调试.md
+          - 控制流平坦化: 01-CTF/reverse/控制流平坦化.md
+          - 符号执行: 01-CTF/reverse/符号执行.md
+          - Python: 01-CTF/reverse/Python.md
+          - .NET: 01-CTF/reverse/NET.md
+          - Rust: 01-CTF/reverse/Rust.md
+          - JavaScript: 01-CTF/reverse/JavaScript.md
+          - Android 平台: 01-CTF/reverse/Android.md
+          - 解题技巧: 01-CTF/reverse/解题技巧.md
       - Pwn:
-          - hc-pwn/index.md
-          - WSL2 下的环境配置: hc-pwn/wsl2_environment.md
-          - 汇编语言（x86）: hc-pwn/Asm_x86.md
-          - 栈上数组越界与栈溢出: hc-pwn/Stack_Overflow.md
-          - ROP 入门: hc-pwn/ROP.md
-          - 常见 ROP 技巧: hc-pwn/ROP_Tricks.md
-          - ROP 进阶: hc-pwn/rop_add_v1.md
-          - 常见保护: hc-pwn/Protections.md
-          - 解题技巧: hc-pwn/ROP_Tricks.md
+          - 01-CTF/pwn/index.md
+          - WSL2 下的环境配置: 01-CTF/pwn/wsl2_environment.md
+          - 汇编语言（x86）: 01-CTF/pwn/Asm_x86.md
+          - 栈上数组越界与栈溢出: 01-CTF/pwn/Stack_Overflow.md
+          - ROP 入门: 01-CTF/pwn/ROP.md
+          - 常见 ROP 技巧: 01-CTF/pwn/ROP_Tricks.md
+          - ROP 进阶: 01-CTF/pwn/rop_add_v1.md
+          - 常见保护: 01-CTF/pwn/Protections.md
+          - 解题技巧: 01-CTF/pwn/ROP_Tricks.md
 
   - 02-RedTeam:
       - AWD 与攻防模式:
-          - AWD 介绍: hc-awd/awd_about.md
-          - AWD 平台: hc-awd/awd_platform.md
-          - WEB AWD 技巧: hc-awd/awd_web.exp.md
-          - PWN AWD 技巧: hc-awd/awd_pwn.exp.md
+          - AWD 介绍: 02-RedTeam/awd/awd_about.md
+          - AWD 平台: 02-RedTeam/awd/awd_platform.md
+          - WEB AWD 技巧: 02-RedTeam/awd/awd_web.exp.md
+          - PWN AWD 技巧: 02-RedTeam/awd/awd_pwn.exp.md
 
   - 03-Labs:
-      - 靶场总览: hc-labs/index.md
+      - 靶场总览: 03-Labs/ranges/index.md
       - 容器扩展:
-          - EE_Docker/index.md
-          - Docker 速通: EE_Docker/dockerstart.md
-          - 关于 Docker: EE_Docker/about.md
+          - 03-Labs/docker/index.md
+          - Docker 速通: 03-Labs/docker/dockerstart.md
+          - 关于 Docker: 03-Labs/docker/about.md
       - 题目模板:
-          - docker-template/index.md
+          - 03-Labs/create/index.md
+          - 03-Labs/templates/index.md
 
   - 04-Resources:
       - 工具资源:
-          - hc-toolkit/index.md
+          - 04-Resources/toolkit/index.md
       - AI 专题:
-          - hc-ai/index.md
-          - 初识 AI: hc-ai/What_is_AI.md
-          - 你的第一个神经网络: hc-ai/MLP.md
+          - 04-Resources/ai/index.md
+          - 初识 AI: 04-Resources/ai/What_is_AI.md
+          - 你的第一个神经网络: 04-Resources/ai/MLP.md
       - 区块链专题:
-          - Move / 从 0 开始的签到题: hc-blockchain/Move/0x00.md
-          - Move / 独特的所有权: hc-blockchain/Move/0x01.md
-          - Move / 神奇的时钟: hc-blockchain/Move/0x02.md
-          - Move / 对象与燃气: hc-blockchain/Move/0x03.md
-          - Move / 多样的泛型: hc-blockchain/Move/0x04.md
+          - Move / 从 0 开始的签到题: 04-Resources/blockchain/Move/0x00.md
+          - Move / 独特的所有权: 04-Resources/blockchain/Move/0x01.md
+          - Move / 神奇的时钟: 04-Resources/blockchain/Move/0x02.md
+          - Move / 对象与燃气: 04-Resources/blockchain/Move/0x03.md
+          - Move / 多样的泛型: 04-Resources/blockchain/Move/0x04.md
       - 附录:
-          - 提问的智慧: hc-appendix/how-to-ask.md
-          - 推荐书单: hc-appendix/book.md
+          - 提问的智慧: 04-Resources/appendix/how-to-ask.md
+          - 推荐书单: 04-Resources/appendix/book.md
       - 归档资料:
-          - hc-archive/index.md
-          - 师傅们和他们的博客: hc-archive/friends.md
-          - 联合战队信息 / 招新: hc-archive/Teams.md
-          - 视频资源: hc-archive/Videos.md
+          - 04-Resources/archive/index.md
+          - 师傅们和他们的博客: 04-Resources/archive/friends.md
+          - 联合战队信息 / 招新: 04-Resources/archive/Teams.md
+          - 视频资源: 04-Resources/archive/Videos.md
 
   - 05-Contest:
       - 赛事日历:
-          - Event/index.md
-          - 即将开始: Event/Upcoming_events.md
-          - 正在进行: Event/Now_running.md
-          - 已经结束: Event/Past_events.md
+          - 05-Contest/events/index.md
+          - 即将开始: 05-Contest/events/Upcoming_events.md
+          - 正在进行: 05-Contest/events/Now_running.md
+          - 已经结束: 05-Contest/events/Past_events.md
       - 平台与赛事说明:
-          - CTF 赛事: hc-appendix/CTFevent.md
-          - NSSCTF 平台使用: hc-appendix/NSSCTF_Usage.md
+          - CTF 赛事: 04-Resources/appendix/CTFevent.md
+          - NSSCTF 平台使用: 04-Resources/appendix/NSSCTF_Usage.md
 
 watch:
   - docs

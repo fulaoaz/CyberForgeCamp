@@ -35,27 +35,20 @@ Whether you're a complete beginner or an experienced player, you'll find a suita
 
 ## 🧭 Recommended Learning Path
 
-> **⚠️ Important**: The directory is organized by skill category, but it is strongly recommended to follow the order below to build a solid foundation.
+> **⚠️ Important**: The repository now uses a numbered documentation structure under `docs/`. Follow the order below to build a clean foundation before jumping into specialized tracks.
 
-| Step | Topic | Directory                                   |
-| :---: | :--- |:--------------------------------------------|
-| 0️⃣ | **Environment Setup** | `00-Basics/00-Environment_Setup/`           |
-| 1️⃣ | **Cybersecurity Introduction** | `00-Basics/01-Security_Intro/`              |
-| 2️⃣ | **Linux Basics (Commands & Scripting)** | `00-Basics/02-Linux/`                       |
-| 3️⃣ | **Computer Networking (TCP/IP, Wireshark)** | `00-Basics/03-Network/`                     |
-| 4️⃣ | **Python for Security** | `00-Basics/04-Python/`                      |
-| 5️⃣ | **Web Frontend Basics (HTML)** | `00-Basics/05-HTML/`                        |
-| 6️⃣ | **Web Frontend Basics (JavaScript)** | `00-Basics/06-JavaScript/`                  |
-| 7️⃣ | **Web Backend Basics (PHP)** | `00-Basics/07-PHP/`                         |
-| 8️⃣ | **Database Security Basics (MySQL)** | `00-Basics/08-MySQL/`                       |
-| 9️⃣ | **Cryptography Basics** | `00-Basics/09-Crypto/`                      |
-| 🔟 | **CTF Entry (Web, Misc)** | `01-CTF/01-Web/`、`01-CTF/02-Misc/`          |
-| 1️⃣1️⃣ | **CTF Advanced (Pwn, Reverse, Crypto)** | `01-CTF/03-Pwn/`、`04-Reverse/`、`05-Crypto/` |
-| 1️⃣2️⃣ | **Red Team Basics (Recon, Scanning)** | `02-RedTeam/01-Recon/`、`02-Exploit/`        |
-| 1️⃣3️⃣ | **Red Team Advanced (Lateral Movement, Evasion)** | `02-RedTeam/03-Lateral/`、`04-Evasion/`      |
-| 1️⃣4️⃣ | **Labs & CTF Archives** | `03-Labs/`、`05-Contest/`                    |
+| Step | Topic | Directory |
+| :---: | :--- | :--- |
+| 0️⃣ | **Orientation & Reading Guide** | `docs/00-Basics/` |
+| 1️⃣ | **Environment Setup & Tooling** | `docs/00-Basics/environment/` |
+| 2️⃣ | **Getting Started with CTF Workflow** | `docs/00-Basics/start/` |
+| 3️⃣ | **CTF Core Categories (Web, Misc, Crypto, Reverse, Pwn)** | `docs/01-CTF/` |
+| 4️⃣ | **Red Team / AWD Practice** | `docs/02-RedTeam/` |
+| 5️⃣ | **Hands-on Labs, Docker Extensions, Challenge Authoring** | `docs/03-Labs/` |
+| 6️⃣ | **Tools, AI, Appendix, Archives, Skill Maps** | `docs/04-Resources/` |
+| 7️⃣ | **Contest Calendar and Event Tracking** | `docs/05-Contest/` |
 
-> 💡 You may skip some steps based on your experience, but it is recommended to complete Steps 0–3 before diving into CTF or Red Team content.
+> 💡 New readers should finish `docs/00-Basics/` before moving into `docs/01-CTF/` or `docs/02-RedTeam/`.
 
 ---
 
@@ -107,7 +100,7 @@ cd CyberForgeCamp
 ### 3. Learning Path
 
 - **Beginners**: Start from Step 0 in the Recommended Learning Path, read documents and complete exercises.
-- **Experienced**: Jump directly to the skill directory you are interested in, and check the `README.md` inside for prerequisites.
+- **Experienced**: Jump directly to the section you need under `docs/`, and use each section's `index.md` page as the entry point for prerequisites and navigation.
 
 ---
 
@@ -115,43 +108,21 @@ cd CyberForgeCamp
 
 ```text
 CyberForgeCamp/
-├── 00-Basics/                          # Fundamentals (numbered by recommended order)
-│   ├── README.md                        # Overview of basics
-│   ├── 00-Environment_Setup/            # Environment setup (Kali/Docker/Burp/IDA/IDE)
-│   ├── 01-Security_Intro/               # Cybersecurity intro (threat models, attack surfaces, laws)
-│   ├── 02-Linux/                        # Linux commands, permissions, scripting
-│   ├── 03-Network/                      # TCP/IP, Wireshark analysis
-│   ├── 04-Python/                       # Python security scripting (requests, scapy, pwntools)
-│   ├── 05-HTML/                         # HTML security (XSS, DOM Clobbering, CSP bypass)
-│   ├── 06-JavaScript/                   # JavaScript security (prototype pollution, XSS payloads, CSRF)
-│   ├── 07-PHP/                          # PHP security (LFI, deserialization, RCE, webshell)
-│   ├── 08-MySQL/                        # MySQL security (SQL injection, privilege escalation, UDF)
-│   └── 09-Crypto/                       # Classical & modern crypto, hash functions
-├── 01-CTF/                             # CTF competition topics
-│   ├── README.md                        # CTF overview
-│   ├── 01-Web/                          # SQLi, XSS, SSRF, RCE
-│   ├── 02-Misc/                         # Forensics, traffic, steganography
-│   ├── 03-Pwn/                          # Stack overflow, heap exploitation, format string
-│   ├── 04-Reverse/                      # IDA, Ghidra, deobfuscation
-│   └── 05-Crypto/                       # Modern cryptography, side-channel
-├── 02-RedTeam/                         # Red team penetration testing
-│   ├── README.md                        # Red team overview
-│   ├── 01-Recon/                        # Information gathering (active/passive)
-│   ├── 02-Exploit/                      # Exploitation & weaponization (MSF/Cobalt Strike)
-│   ├── 03-Lateral/                      # Lateral movement & persistence
-│   └── 04-Evasion/                      # Evasion & bypass (AV/EDR)
-├── 03-Labs/                            # Hands-on practice ranges
-│   ├── README.md                        # Labs overview
-│   ├── 01-VulnHub/                      # Selected VulnHub VM writeups
-│   ├── 02-HTB/                          # HackTheBox retired machines walkthroughs
-│   └── 03-Internal/                     # Internal club-built ranges
-├── 04-Resources/                       # Learning resources
-│   ├── README.md                        # Resources overview
-│   ├── 01-Books/                        # Recommended PDF books
-│   ├── 02-Tools/                        # Tool lists & configurations
-│   └── 03-Cheatsheets/                  # Quick reference sheets
-└── 05-Contest/                         # Past CTF challenges & competition writeups
-    └── README.md                        # Contest archive overview
+├── mkdocs.yml
+├── build.py
+├── docs/
+│   ├── home/                           # Landing page and homepage modules
+│   ├── 00-Basics/                      # Preface, environment, getting started
+│   ├── 01-CTF/                         # Web, Misc, Crypto, Reverse, Pwn, tags
+│   ├── 02-RedTeam/                     # AWD and red team topics
+│   ├── 03-Labs/                        # Ranges, Docker extensions, challenge authoring, templates
+│   ├── 04-Resources/                   # Toolkit, AI, blockchain, appendix, archive, skill maps
+│   ├── 05-Contest/                     # Event calendar and contest pages
+│   ├── assets/                         # Shared images and static resources
+│   ├── sidebar/                        # Standalone sidebar pages
+│   └── stylesheets/                    # Custom styles
+├── overrides/                          # MkDocs Material overrides
+└── .github/workflows/                  # Documentation build and deployment workflow
 ```
 
 ---

@@ -22,8 +22,8 @@ hide:
                 <div class="carousel">
                     <div class="carousel-container">
                         <a href="https://www.dkdun.cn/"><img src="./assets/banner-dkdun.png" /></a>
-                        <a href="../hc-preface/" target="_blank"><img src="./assets/banner-quickstart.png" /></a>
-                        <a href="../hc-ai/" target="_blank"><img src="./assets/banner-update.png" /></a>
+                        <a href="../00-Basics/" target="_blank"><img src="./assets/banner-quickstart.png" /></a>
+                        <a href="../04-Resources/ai/" target="_blank"><img src="./assets/banner-update.png" /></a>
                         <a href="https://github.com/CTF-Archives" target="_blank"><img src="./assets/banner-Achieve.png" /></a>
                         
                     </div>
@@ -78,26 +78,6 @@ hide:
     **添加日历** : https://ctftime.org/event/2907.ics  
     
 
-??? Quote "[ZeroSecure CTF 2026](https://www.zerosecurectf.online/)"  
-    [![](https://ctftime.org/media/events/logo_cropped.png){ width="200" align=left }](https://www.zerosecurectf.online/)  
-    **比赛名称** : [ZeroSecure CTF 2026](https://www.zerosecurectf.online/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 13:30:00 - 2026-04-18 13:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CLIENT - ZERO (https://ctftime.org/team/381031)  
-    **添加日历** : https://ctftime.org/event/3252.ics  
-    
-
-??? Quote "[47CON CTF 2026](https://sugusuva.es/ctfd/)"  
-    [![](https://ctftime.org/media/events/logo47CON.png){ width="200" align=left }](https://sugusuva.es/ctfd/)  
-    **比赛名称** : [47CON CTF 2026](https://sugusuva.es/ctfd/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 16:00:00 - 2026-04-18 16:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SUGUS (https://ctftime.org/team/274509)  
-    **添加日历** : https://ctftime.org/event/3253.ics  
-    
-
 ??? Quote "[CPCTF 2026](https://cpctf.space/)"  
     [![](https://ctftime.org/media/events/cpctf_logo_1_1.png){ width="200" align=left }](https://cpctf.space/)  
     **比赛名称** : [CPCTF 2026](https://cpctf.space/)  
@@ -117,8 +97,28 @@ hide:
     **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
     **添加日历** : https://ctftime.org/event/3156.ics  
     
+
+??? Quote "[BlueHens CTF 2026](https://bluehens.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/1649244ad20feb4c02d8740a7cb035d3.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
+    **比赛名称** : [BlueHens CTF 2026](https://bluehens.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-04-18 01:00:00 - 2026-04-19 13:00:00 UTC+8  
+    **比赛权重** : 44.77  
+    **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
+    **添加日历** : https://ctftime.org/event/3235.ics  
+    
+
+??? Quote "[squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)"  
+    [![](https://ctftime.org/media/events/squ1rrel_logo_1.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
+    **比赛名称** : [squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-04-18 07:00:00 - 2026-04-19 14:00:00 UTC+8  
+    **比赛权重** : 32.47  
+    **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
+    **添加日历** : https://ctftime.org/event/3234.ics  
+    
     <!-- 主页赛事展示_结束 -->
-    [→ 了解更多](../Event/)
+    [→ 了解更多](../05-Contest/events/index.md)
 
 </div>
   <div class="grid cards" markdown>
@@ -139,7 +139,7 @@ hide:
 
     ---
 
-    - 入门前建议先阅读[前言与入门部分](../hc-preface/)与[环境准备](../hc-env/)，先建立整体认知。  
+    - 入门前建议先阅读[前言与入门部分](../00-Basics/index.md)与[环境准备](../00-Basics/environment/index.md)，先建立整体认知。  
     - 请善用搜索功能来寻找你想要的内容！！
     - 站点已接入 CDN，感谢[渊龙Sec安全团队](https://dh.aabyss.cn)友情赞助
 

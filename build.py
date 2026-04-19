@@ -6,15 +6,15 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parent
-CN_JSON_PATH = ROOT / "docs/Event/json/CN.json"
-GLOBAL_JSON_PATH = ROOT / "docs/Event/json/Global.json"
+CN_JSON_PATH = ROOT / "docs/05-Contest/events/json/CN.json"
+GLOBAL_JSON_PATH = ROOT / "docs/05-Contest/events/json/Global.json"
 HOME_INDEX_PATH = ROOT / "docs/home/index.md"
-EVENT_INDEX_PATH = ROOT / "docs/Event/index.md"
-UPCOMING_EVENTS_PATH = ROOT / "docs/Event/Upcoming_events.md"
-NOW_RUNNING_PATH = ROOT / "docs/Event/Now_running.md"
-PAST_EVENTS_PATH = ROOT / "docs/Event/Past_events.md"
-FRIENDS_INDEX_PATH = ROOT / "docs/hc-archive/index.md"
-FRIENDS_PAGE_PATH = ROOT / "docs/hc-archive/friends.md"
+EVENT_INDEX_PATH = ROOT / "docs/05-Contest/events/index.md"
+UPCOMING_EVENTS_PATH = ROOT / "docs/05-Contest/events/Upcoming_events.md"
+NOW_RUNNING_PATH = ROOT / "docs/05-Contest/events/Now_running.md"
+PAST_EVENTS_PATH = ROOT / "docs/05-Contest/events/Past_events.md"
+FRIENDS_INDEX_PATH = ROOT / "docs/04-Resources/archive/index.md"
+FRIENDS_PAGE_PATH = ROOT / "docs/04-Resources/archive/friends.md"
 
 HOME_START_MARKER = "<!-- 主页赛事展示_开始 -->"
 HOME_END_MARKER = "<!-- 主页赛事展示_结束 -->"

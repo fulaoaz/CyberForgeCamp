@@ -1,7 +1,7 @@
 {
-  "announcement": "⭐ 新手建议先阅读[前言与入门部分](./hc-preface/)与[环境准备](./hc-env/)，再进入各方向专题。\n\n🌟 欢迎关注 CyberForgeCamp 的题型专题、赛事日历与实战资源，按自己的节奏逐步进阶。",
+  "announcement": "⭐ 新手建议先阅读[前言与入门部分](./00-Basics/)与[环境准备](./00-Basics/environment/)，再进入各方向专题。\n\n🌟 欢迎关注 CyberForgeCamp 的题型专题、赛事日历与实战资源，按自己的节奏逐步进阶。",
   "friendlyLinks": "[CTF-Archive](https://github.com/CTF-Archives)\n\n[NSSCTF](https://www.nssctf.cn/)\n\n",
-  "eventNotifications": "- 欢迎访问 CyberForgeCamp 赛事日历与国内赛事资讯。\n- 更多赛事请前往 [赛事详情页](./Event/)。",
-  "otherProjects": "[【CyberForgeCamp 仓库】](https://github.com/TianJiHub/CyberForgeCamp)\n\n[【赛事日历】](./Event/)\n\n[【学习资源推荐】](./sidebar/resources.html)\n\n[【工具 / MCP】](./sidebar/tools.html)",
+  "eventNotifications": "- 欢迎访问 CyberForgeCamp 赛事日历与国内赛事资讯。\n- 更多赛事请前往 [赛事详情页](./05-Contest/events/)。",
+  "otherProjects": "[【CyberForgeCamp 仓库】](https://github.com/TianJiHub/CyberForgeCamp)\n\n[【赛事日历】](./05-Contest/events/)\n\n[【学习资源推荐】](./sidebar/resources.html)\n\n[【工具 / MCP】](./sidebar/tools.html)",
   "otherResources": "[广告位招租...]"
 }

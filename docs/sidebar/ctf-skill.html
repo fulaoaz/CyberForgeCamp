@@ -391,7 +391,7 @@
                 var c = COLOR_MAP[cat.color] || COLOR_MAP.orange;
                 var icon = ICON_SVG[cat.icon] || ICON_SVG.globe;
                 var pills = cat.subcategories.map(function (s, i) { return pillHTML(s, cat, i); }).join('');
-                var indexHref = '../hc-skill/' + cat.id + '/';
+                var indexHref = '../04-Resources/skills/' + cat.id + '/';
 
                 return '<div class="card-surface p-6 flex flex-col fade-in-up" style="animation-delay:' + (idx * 60) + 'ms">' +
                     '<div class="flex items-start gap-3.5 mb-3">' +
@@ -468,7 +468,7 @@
                     modalTags.innerHTML = '<span class="text-xs text-base-900/35 dark:text-white/25">暂无三级标签</span>';
                 }
 
-                modalConfirm.href = '../hc-skill/' + cat.id + '/' + sub.slug + '/';
+                modalConfirm.href = '../04-Resources/skills/' + cat.id + '/' + sub.slug + '/';
                 modalEl.classList.add('open');
             }
 

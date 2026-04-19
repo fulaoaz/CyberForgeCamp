@@ -116,29 +116,23 @@ CyberForgeCamp/
 ├── README.md
 ├── README_EN.md
 ├── mkdocs.yml
+├── build.py
 ├── docs/
 │   ├── home/                 # 文档站首页
-│   ├── hc-preface/           # 前言、学习方式、共建说明
-│   ├── hc-env/               # 环境、工具与基础准备
-│   ├── hc-misc/              # Misc 方向
-│   ├── hc-web/               # Web 方向
-│   ├── hc-crypto/            # Crypto 方向
-│   ├── hc-reverse/           # Reverse 方向
-│   ├── hc-pwn/               # Pwn 方向
-│   ├── hc-awd/               # AWD / 攻防模式
-│   ├── hc-ai/                # AI 安全专题
-│   ├── hc-blockchain/        # 区块链安全专题
-│   ├── hc-labs/              # 靶场资料
-│   ├── EE_Docker/            # Docker / 容器扩展
-│   ├── docker-template/      # 题目模板与部署样例
-│   ├── Event/                # 赛事日历与赛事页面
-│   ├── hc-appendix/          # 附录与平台说明
-│   └── hc-archive/           # 归档资料
+│   ├── 00-Basics/            # 前言、环境、快速开始
+│   ├── 01-CTF/               # Web、Misc、Crypto、Reverse、Pwn、知识标签
+│   ├── 02-RedTeam/           # AWD 与红队相关内容
+│   ├── 03-Labs/              # 靶场、容器扩展、命题教程、模板
+│   ├── 04-Resources/         # 工具、AI、区块链、附录、归档、技能图谱
+│   ├── 05-Contest/           # 赛事日历与赛事页面
+│   ├── assets/               # 共享静态资源
+│   ├── sidebar/              # 独立侧边栏页面
+│   └── stylesheets/          # 自定义样式
 ├── overrides/                # MkDocs Material 覆写
 └── .github/workflows/        # 文档构建与部署工作流
 ```
 
-虽然内部仍保留历史内容目录，但对外的在线文档导航已经统一映射为：
+对外的在线文档导航已经统一映射为：
 
 - `00-Basics`
 - `01-CTF`

@@ -465,7 +465,6 @@
                 <div class="grid grid-cols-2 gap-3">
                     <a href="./intro.html" class="group relative flex items-center justify-center overflow-hidden rounded-2xl bg-gradient-to-br from-primary via-blue-600 to-indigo-600 px-3 py-3.5 text-sm font-semibold text-white shadow-lg shadow-primary/30 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/40 active:translate-y-0 active:scale-[0.98] dark:from-blue-500 dark:via-indigo-500 dark:to-indigo-600">新手引导</a>
                     <a href="./home/" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center rounded-2xl border-2 border-primary/35 bg-white/80 px-3 py-3.5 text-sm font-semibold text-primary shadow-sm backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:border-primary/60 hover:bg-primary/[0.07] hover:shadow-md active:translate-y-0 dark:border-accent/45 dark:bg-base-900/45 dark:text-accent dark:hover:border-accent/70 dark:hover:bg-accent/10">开始阅读</a>
-                    <a href="https://space.bilibili.com/27109929" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center rounded-2xl border border-base-200/90 bg-white/60 px-3 py-3.5 text-sm font-medium text-base-900/90 shadow-sm backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/45 hover:bg-white hover:shadow-md active:translate-y-0 dark:border-base-600/70 dark:bg-base-900/40 dark:text-white/90 dark:hover:border-accent/50 dark:hover:bg-base-800/80">BiliBili</a>
                     <a href="https://platform.cyclens.tech/" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center rounded-2xl border border-base-200/90 bg-white/60 px-3 py-3.5 text-sm font-medium text-base-900/90 shadow-sm backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/45 hover:bg-white hover:shadow-md active:translate-y-0 dark:border-base-600/70 dark:bg-base-900/40 dark:text-white/90 dark:hover:border-accent/50 dark:hover:bg-base-800/80">循镜靶场</a>
                 </div>
 
@@ -490,7 +489,7 @@
                             注：由于篇幅原因，国外比赛不会在首页显示，请点击「查看更多」前往详情页。
                         </p>
                         <div class="flex flex-wrap gap-2.5 justify-end shrink-0">
-                            <a href="./Event/" class="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary to-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-md shadow-primary/25 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-primary/35 active:translate-y-0 dark:from-blue-500 dark:to-indigo-600">查看更多</a>
+                            <a href="./05-Contest/events/" class="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary to-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-md shadow-primary/25 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-primary/35 active:translate-y-0 dark:from-blue-500 dark:to-indigo-600">查看更多</a>
                             <a href="./submit_event.html" class="inline-flex items-center justify-center rounded-xl border-2 border-primary/30 bg-white/70 px-4 py-2.5 text-sm font-semibold text-primary backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/55 hover:bg-primary/[0.06] hover:shadow-md dark:border-accent/40 dark:bg-base-900/40 dark:text-accent dark:hover:border-accent/65 dark:hover:bg-accent/10">提交比赛</a>
                         </div>
                     </div>
@@ -530,7 +529,6 @@
                     <div>
                         <h3 class="text-lg font-bold mb-4 text-primary dark:text-accent">社交媒体</h3>
                         <ul class="space-y-2">
-                            <li><a href="https://space.bilibili.com/27109929" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">Bilibili</a></li>
                             <li><span class="text-base-900/70 dark:text-white/70">微信公众号: CyberForgeCamp</span></li>
                             <li><a href="https://x.com/cyclens_tech" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">X: @cyclens_tech</a></li>
                         </ul>
@@ -571,7 +569,7 @@
     <script src="./javascripts/FullCalendar.js"></script>
     <script>
         const DEFAULT_CONTENT = {
-            announcement: "- 入门前建议先阅读[前言与入门部分](./hc-preface/)与[环境准备](./hc-env/)。\n- 请善用搜索功能快速定位题型、工具与专题资料。\n- 欢迎通过仓库 issue 或 PR 参与共建。",
+            announcement: "- 入门前建议先阅读[前言与入门部分](./00-Basics/)与[环境准备](./00-Basics/environment/)。\n- 请善用搜索功能快速定位题型、工具与专题资料。\n- 欢迎通过仓库 issue 或 PR 参与共建。",
             friendlyLinks: "[DK盾-从CTF起家的IDC服务商](https://www.dkdun.cn)\n\n[最棒的CTF平台-NSSCTF](https://www.nssctf.cn/)",
             eventNotifications: "- 欢迎访问 CyberForgeCamp。",
             otherProjects: "（暂无）",
@@ -651,7 +649,7 @@
         async function loadHomeCalendar() {
             const calendarEl = document.getElementById('home-calendar');
             if (!calendarEl || typeof FullCalendar === 'undefined') return;
-            const cnEvents = await fetchCNCTFTime('./Event/json/CN.json');
+            const cnEvents = await fetchCNCTFTime('./05-Contest/events/json/CN.json');
             homeCalendar = new FullCalendar.Calendar(calendarEl, {
                 height: 'auto',
                 locale: 'zh',
