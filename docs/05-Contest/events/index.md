@@ -510,16 +510,6 @@ hide:
             **添加日历** : https://ctftime.org/event/2907.ics  
             
 
-        ??? Quote "[CTF@CIT 2026](https://ctf.cyber-cit.club/)"  
-            [![](https://ctftime.org/media/events/CTF-CIT-ctftime_3.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
-            **比赛名称** : [CTF@CIT 2026](https://ctf.cyber-cit.club/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-18 00:00:00 - 2026-04-20 03:00:00 UTC+8  
-            **比赛权重** : 23.93  
-            **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
-            **添加日历** : https://ctftime.org/event/3156.ics  
-            
-
         ??? Quote "[b01lers CTF 2026](https://b01lersc.tf/)"  
             [![](https://ctftime.org/media/events/b01lers.png){ width="200" align=left }](https://b01lersc.tf/)  
             **比赛名称** : [b01lers CTF 2026](https://b01lersc.tf/)  
@@ -528,16 +518,6 @@ hide:
             **比赛权重** : 66.00  
             **赛事主办** : b01lers (https://ctftime.org/team/11464)  
             **添加日历** : https://ctftime.org/event/3153.ics  
-            
-
-        ??? Quote "[JerseyCTF VI](https://ctf.jerseyctf.com/)"  
-            [![](https://ctftime.org/media/events/jctfvi-discord.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
-            **比赛名称** : [JerseyCTF VI](https://ctf.jerseyctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8  
-            **比赛权重** : 37.00  
-            **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
-            **添加日历** : https://ctftime.org/event/3117.ics  
             
 
         ??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
@@ -2176,6 +2156,16 @@ hide:
             **添加日历** : https://ctftime.org/event/3077.ics  
             
 
+        ??? Quote "[CTF@CIT 2026](https://ctf.cyber-cit.club/)"  
+            [![](https://ctftime.org/media/events/CTF-CIT-ctftime_3.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
+            **比赛名称** : [CTF@CIT 2026](https://ctf.cyber-cit.club/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-18 00:00:00 - 2026-04-20 03:00:00 UTC+8  
+            **比赛权重** : 23.93  
+            **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
+            **添加日历** : https://ctftime.org/event/3156.ics  
+            
+
         ??? Quote "[BlueHens CTF 2026](https://bluehens.ctfd.io/)"  
             [![](https://ctftime.org/media/events/1649244ad20feb4c02d8740a7cb035d3.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
             **比赛名称** : [BlueHens CTF 2026](https://bluehens.ctfd.io/)  
@@ -2223,7 +2213,17 @@ hide:
             **比赛时间** : 2026-04-18 23:00:00 - 2026-04-19 07:00:00 UTC+8  
             **比赛权重** : 0.00  
             **赛事主办** : DSU CTF Club (https://ctftime.org/team/427677)  
-            **添加日历** : https://ctftime.org/event/3233.ics
+            **添加日历** : https://ctftime.org/event/3233.ics  
+            
+
+        ??? Quote "[JerseyCTF VI](https://ctf.jerseyctf.com/)"  
+            [![](https://ctftime.org/media/events/jctfvi-discord.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
+            **比赛名称** : [JerseyCTF VI](https://ctf.jerseyctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8  
+            **比赛权重** : 37.00  
+            **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
+            **添加日历** : https://ctftime.org/event/3117.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
