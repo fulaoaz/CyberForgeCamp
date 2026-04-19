@@ -449,16 +449,16 @@
 
                 <div class="grid grid-cols-3 gap-2 px-0.5">
                     <div class="text-center">
-                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="3800">0+</div>
+                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="3">0+</div>
                         <div class="text-[10px] sm:text-xs text-base-900/55 dark:text-white/45 leading-snug">GitHub Stars</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="300">0+</div>
-                        <div class="text-[10px] sm:text-xs text-base-900/55 dark:text-white/45 leading-snug">配套题目</div>
+                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="312">0+</div>
+                        <div class="text-[10px] sm:text-xs text-base-900/55 dark:text-white/45 leading-snug">文档页面</div>
                     </div>
                     <div class="text-center">
-                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="9000">0+</div>
-                        <div class="text-[10px] sm:text-xs text-base-900/55 dark:text-white/45 leading-snug">受益用户</div>
+                        <div class="text-xl sm:text-2xl font-bold text-gradient mb-0.5 counter tabular-nums" data-target="5">0+</div>
+                        <div class="text-[10px] sm:text-xs text-base-900/55 dark:text-white/45 leading-snug">GitHub Forks</div>
                     </div>
                 </div>
 
@@ -473,9 +473,24 @@
                     <div id="announcement-md" class="markdown-body text-sm text-base-900/85 dark:text-white/85"></div>
                 </section>
 
-                <section class="card-surface backdrop-blur-md p-4">
-                    <h2 class="text-sm font-semibold text-primary dark:text-accent mb-3 font-mono">友情链接</h2>
-                    <div id="friendly-links-md" class="markdown-body text-sm text-base-900/85 dark:text-white/85"></div>
+                <section class="card-surface backdrop-blur-md p-4 space-y-3">
+                    <div>
+                        <h2 class="text-sm font-semibold text-primary dark:text-accent mb-2 font-mono">预留入口</h2>
+                        <p class="text-sm text-base-900/70 dark:text-white/70 leading-relaxed">师傅们的友链与反馈 / 群聊入口已预留，后续补充后可直接接入。</p>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                        <a href="./sidebar/friends.html" class="flex items-center justify-center rounded-xl border border-dashed border-primary/35 bg-primary/[0.04] px-3 py-2.5 text-sm font-medium text-primary transition-all duration-300 hover:border-primary/55 hover:bg-primary/[0.08] dark:border-accent/40 dark:bg-accent/[0.08] dark:text-accent dark:hover:border-accent/60 dark:hover:bg-accent/[0.12]">师傅们的友链</a>
+                        <a href="./sidebar/feedback.html" class="flex items-center justify-center rounded-xl border border-dashed border-primary/35 bg-primary/[0.04] px-3 py-2.5 text-sm font-medium text-primary transition-all duration-300 hover:border-primary/55 hover:bg-primary/[0.08] dark:border-accent/40 dark:bg-accent/[0.08] dark:text-accent dark:hover:border-accent/60 dark:hover:bg-accent/[0.12]">反馈与群聊入口</a>
+                    </div>
+                    <div class="rounded-2xl border border-base-200/80 bg-white/70 p-3.5 dark:border-base-700 dark:bg-base-900/40">
+                        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+                            <div>
+                                <h3 class="text-sm font-semibold text-base-900 dark:text-white">管理员登录</h3>
+                                <p class="mt-1 text-xs text-base-900/60 dark:text-white/55">当前为预留入口，后续可接入独立认证与后台管理页面。</p>
+                            </div>
+                            <a href="./admin/login.html" class="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary to-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-md shadow-primary/20 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-primary/30 dark:from-blue-500 dark:to-indigo-600">进入登录页</a>
+                        </div>
+                    </div>
                 </section>
             </aside>
 
@@ -517,30 +532,19 @@
         <!-- 页脚 -->
         <footer class="mt-14 pt-10 border-t border-base-100 dark:border-base-900">
             <div class="max-w-6xl mx-auto">
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
-                    <div>
-                        <h3 class="text-lg font-bold mb-4 text-primary dark:text-accent">交流与联系</h3>
-                        <ul class="space-y-2">
-                            <li><a href="https://discord.gg/kwyVP5vKWy" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">Discord: CyberForgeCamp</a></li>
-                            <li><a href="https://qm.qq.com/q/HL59n1B7GK" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">QQ群: CyberForgeCamp User</a></li>
-                            <li><a href="mailto:contact@cyclens.tech" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">Email: contact@cyclens.tech</a></li>
-                        </ul>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="rounded-2xl border border-base-200/80 bg-white/70 p-5 dark:border-base-800 dark:bg-base-900/40">
+                        <h3 class="text-lg font-bold mb-3 text-primary dark:text-accent">师傅们的友链</h3>
+                        <p class="text-sm leading-relaxed text-base-900/65 dark:text-white/65">该区域已预留，后续可直接补充师傅们的博客、团队主页与常用站点入口。</p>
                     </div>
-                    <div>
-                        <h3 class="text-lg font-bold mb-4 text-primary dark:text-accent">社交媒体</h3>
-                        <ul class="space-y-2">
-                            <li><span class="text-base-900/70 dark:text-white/70">微信公众号: CyberForgeCamp</span></li>
-                            <li><a href="https://x.com/cyclens_tech" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">X: @cyclens_tech</a></li>
-                        </ul>
+                    <div class="rounded-2xl border border-base-200/80 bg-white/70 p-5 dark:border-base-800 dark:bg-base-900/40">
+                        <h3 class="text-lg font-bold mb-3 text-primary dark:text-accent">反馈与群聊入口</h3>
+                        <p class="text-sm leading-relaxed text-base-900/65 dark:text-white/65">该区域已预留，后续可接入表单反馈、QQ群、Discord 或其他社区入口。</p>
                     </div>
-                    <div>
-                        <h3 class="text-lg font-bold mb-4 text-primary dark:text-accent">友情链接</h3>
-                        <ul class="space-y-2">
-                            <li><a href="https://cyclens.tech" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">CyclensTech</a></li>
-                            <li><a href="https://www.bitslab.xyz/" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">Bitslab</a></li>
-                            <li><a href="https://www.dkdun.cn/" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">林枫云</a></li>
-                            <li><a href="https://hellodify.com/" target="_blank" rel="noopener noreferrer" class="text-base-900/70 dark:text-white/70 hover:text-primary dark:hover:text-accent transition-colors">Hello Dify</a></li>
-                        </ul>
+                    <div class="rounded-2xl border border-primary/20 bg-gradient-to-br from-primary/[0.08] to-indigo-500/[0.08] p-5 dark:border-accent/25 dark:from-blue-500/[0.12] dark:to-indigo-500/[0.12]">
+                        <h3 class="text-lg font-bold mb-3 text-primary dark:text-accent">管理员登录入口</h3>
+                        <p class="text-sm leading-relaxed text-base-900/65 dark:text-white/65">保留一个简单的后台入口，便于后续接入管理员认证、内容维护与站点管理。</p>
+                        <a href="./admin/login.html" class="mt-4 inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary to-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-md shadow-primary/20 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-primary/30 dark:from-blue-500 dark:to-indigo-600">管理员登录</a>
                     </div>
                 </div>
                 <div class="mt-12 pt-8 border-t border-base-100 dark:border-base-900 flex flex-col md:flex-row items-center justify-between gap-6">
@@ -570,7 +574,6 @@
     <script>
         const DEFAULT_CONTENT = {
             announcement: "- 入门前建议先阅读[前言与入门部分](./00-Basics/)与[环境准备](./00-Basics/environment/)。\n- 请善用搜索功能快速定位题型、工具与专题资料。\n- 欢迎通过仓库 issue 或 PR 参与共建。",
-            friendlyLinks: "[DK盾-从CTF起家的IDC服务商](https://www.dkdun.cn)\n\n[最棒的CTF平台-NSSCTF](https://www.nssctf.cn/)",
             eventNotifications: "- 欢迎访问 CyberForgeCamp。",
             otherProjects: "（暂无）",
             otherResources: "（暂无）"
@@ -590,7 +593,6 @@
             } catch (_) {}
             const d = data || DEFAULT_CONTENT;
             await renderMarkdown(document.getElementById('announcement-md'), d.announcement || '');
-            await renderMarkdown(document.getElementById('friendly-links-md'), d.friendlyLinks || '');
             await renderMarkdown(document.getElementById('event-notifications-md'), d.eventNotifications || '');
             await renderMarkdown(document.getElementById('other-projects-md'), d.otherProjects || '');
             await renderMarkdown(document.getElementById('other-resources-md'), d.otherResources || '');

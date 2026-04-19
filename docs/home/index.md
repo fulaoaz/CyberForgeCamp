@@ -19,23 +19,7 @@ hide:
                         </path>
                     </svg></span> <strong>NEWS</strong></p>
             <div class="grid cards">
-                <div class="carousel">
-                    <div class="carousel-container">
-                        <a href="https://www.dkdun.cn/"><img src="./assets/banner-dkdun.png" /></a>
-                        <a href="../00-Basics/" target="_blank"><img src="./assets/banner-quickstart.png" /></a>
-                        <a href="../04-Resources/ai/" target="_blank"><img src="./assets/banner-update.png" /></a>
-                        <a href="https://github.com/CTF-Archives" target="_blank"><img src="./assets/banner-Achieve.png" /></a>
-                        
-                    </div>
-                    <!-- 触发 hover 的区域 -->
-                    <div class="carousel-hover left">
-                        <button class="carousel-btn left" onclick="leftShift()"></button>
-                    </div>
-                    <div class="carousel-hover right">
-                        <button class="carousel-btn right" onclick="rightShift()"></button>
-                    </div>
-                    <div class="carousel-bottom"></div>
-                </div>
+                <div style="min-height: 160px;"></div>
             </div>
         </li>
     </ul>
@@ -141,21 +125,6 @@ hide:
 
     - 入门前建议先阅读[前言与入门部分](../00-Basics/index.md)与[环境准备](../00-Basics/environment/index.md)，先建立整体认知。  
     - 请善用搜索功能来寻找你想要的内容！！
-    - 站点已接入 CDN，感谢[渊龙Sec安全团队](https://dh.aabyss.cn)友情赞助
-
--   :fontawesome-regular-paper-plane:{ .lg .middle } __友链__
-
-    ---
-
-    [DK盾-从CTF起家的IDC服务商](https://www.dkdun.cn)
-
-    [最棒的CTF平台-NSSCTF](https://www.nssctf.cn/)  
-
-    [安全导航-渊龙Sec安全团队](https://dh.aabyss.cn)    
-
-    [CTF导航-猫捉鱼铃](https://ctf.mzy0.com/)
-
-    [CTF-Archive](https://github.com/CTF-Archives)
 
 </div>   
 
