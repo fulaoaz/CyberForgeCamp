@@ -62,16 +62,6 @@ hide:
     **添加日历** : https://ctftime.org/event/2907.ics  
     
 
-??? Quote "[b01lers CTF 2026](https://b01lersc.tf/)"  
-    [![](https://ctftime.org/media/events/b01lers.png){ width="200" align=left }](https://b01lersc.tf/)  
-    **比赛名称** : [b01lers CTF 2026](https://b01lersc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-18 08:00:00 - 2026-04-20 08:00:00 UTC+8  
-    **比赛权重** : 66.00  
-    **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-    **添加日历** : https://ctftime.org/event/3153.ics  
-    
-
 ??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
     [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg){ width="200" align=left }](https://cybernsk.ru/)  
     **比赛名称** : [CyberNSK-Finals](https://cybernsk.ru/)  
@@ -100,6 +90,16 @@ hide:
     **比赛权重** : 85.48  
     **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
     **添加日历** : https://ctftime.org/event/3056.ics  
+    
+
+??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
+    [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
+    **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-04-25 09:00:00 - 2026-04-25 16:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
+    **添加日历** : https://ctftime.org/event/3199.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
