@@ -520,14 +520,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3213.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[TRX CTF 2026](https://ctf.theromanxpl0.it/)"  
             [![](https://ctftime.org/media/events/TRX_smooth_1.png){ width="200" align=left }](https://ctf.theromanxpl0.it/)  
             **比赛名称** : [TRX CTF 2026](https://ctf.theromanxpl0.it/)  
@@ -538,6 +530,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3141.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[UMDCTF 2026](https://umdctf.io/)"  
             [![](https://ctftime.org/media/events/logo-2026-cropped.png){ width="200" align=left }](https://umdctf.io/)  
             **比赛名称** : [UMDCTF 2026](https://umdctf.io/)  
