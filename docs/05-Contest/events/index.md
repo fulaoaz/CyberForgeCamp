@@ -540,16 +540,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3056.ics  
             
 
-        ??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
-            [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
-            **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-25 09:00:00 - 2026-04-25 16:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
-            **添加日历** : https://ctftime.org/event/3199.ics  
-            
-
         ??? Quote "[Alfa CTF 2026](https://alfactf.ru/)"  
             [![](https://ctftime.org/media/events/IMG_0149.jpeg){ width="200" align=left }](https://alfactf.ru/)  
             **比赛名称** : [Alfa CTF 2026](https://alfactf.ru/)  
@@ -570,14 +560,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3192.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
             [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
             **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
@@ -588,6 +570,14 @@ hide:
             **添加日历** : https://ctftime.org/event/2773.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
             [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
             **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
@@ -2223,7 +2213,17 @@ hide:
             **比赛时间** : 2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8  
             **比赛权重** : 37.00  
             **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
-            **添加日历** : https://ctftime.org/event/3117.ics
+            **添加日历** : https://ctftime.org/event/3117.ics  
+            
+
+        ??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
+            [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
+            **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-25 09:00:00 - 2026-04-25 16:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
+            **添加日历** : https://ctftime.org/event/3199.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   

@@ -58,16 +58,6 @@ comments: true
     **添加日历** : https://ctftime.org/event/3056.ics  
     
 
-??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
-    [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
-    **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 09:00:00 - 2026-04-25 16:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
-    **添加日历** : https://ctftime.org/event/3199.ics  
-    
-
 ??? Quote "[Alfa CTF 2026](https://alfactf.ru/)"  
     [![](https://ctftime.org/media/events/IMG_0149.jpeg){ width="200" align=left }](https://alfactf.ru/)  
     **比赛名称** : [Alfa CTF 2026](https://alfactf.ru/)  
@@ -85,4 +75,14 @@ comments: true
     **比赛时间** : 2026-04-25 15:00:00 - 2026-04-26 15:00:00 UTC+8  
     **比赛权重** : 24.53  
     **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-    **添加日历** : https://ctftime.org/event/3192.ics
+    **添加日历** : https://ctftime.org/event/3192.ics  
+    
+
+??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
+    [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
+    **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-04-25 18:00:00 - 2026-04-26 18:00:00 UTC+8  
+    **比赛权重** : 48.17  
+    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+    **添加日历** : https://ctftime.org/event/2773.ics
