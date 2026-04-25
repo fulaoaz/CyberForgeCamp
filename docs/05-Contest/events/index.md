@@ -550,14 +550,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3199.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[Alfa CTF 2026](https://alfactf.ru/)"  
             [![](https://ctftime.org/media/events/IMG_0149.jpeg){ width="200" align=left }](https://alfactf.ru/)  
             **比赛名称** : [Alfa CTF 2026](https://alfactf.ru/)  
@@ -578,6 +570,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3192.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
             [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
             **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
