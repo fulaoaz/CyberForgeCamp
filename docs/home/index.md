@@ -62,16 +62,6 @@ hide:
     **添加日历** : https://ctftime.org/event/2907.ics  
     
 
-??? Quote "[TRX CTF 2026](https://ctf.theromanxpl0.it/)"  
-    [![](https://ctftime.org/media/events/TRX_smooth_1.png){ width="200" align=left }](https://ctf.theromanxpl0.it/)  
-    **比赛名称** : [TRX CTF 2026](https://ctf.theromanxpl0.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 03:00:00 - 2026-04-27 03:00:00 UTC+8  
-    **比赛权重** : 24.16  
-    **赛事主办** : TheRomanXpl0it (https://ctftime.org/team/46516)  
-    **添加日历** : https://ctftime.org/event/3141.ics  
-    
-
 ??? Quote "[UMDCTF 2026](https://umdctf.io/)"  
     [![](https://ctftime.org/media/events/logo-2026-cropped.png){ width="200" align=left }](https://umdctf.io/)  
     **比赛名称** : [UMDCTF 2026](https://umdctf.io/)  
@@ -100,6 +90,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
     **添加日历** : https://ctftime.org/event/3177.ics  
+    
+
+??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
+    [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
+    **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-02 02:00:00 - 2026-05-04 02:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
+    **添加日历** : https://ctftime.org/event/3209.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
