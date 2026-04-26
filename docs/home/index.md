@@ -92,14 +92,14 @@ hide:
     **添加日历** : https://ctftime.org/event/3056.ics  
     
 
-??? Quote "[CTF@AC26 - Quals](https://ctf.ac.upt.ro/)"  
-    [![](https://ctftime.org/media/events/CTFAC26.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
-    **比赛名称** : [CTF@AC26 - Quals](https://ctf.ac.upt.ro/)  
+??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
+    [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
+    **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 15:00:00 - 2026-04-26 15:00:00 UTC+8  
-    **比赛权重** : 24.53  
-    **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-    **添加日历** : https://ctftime.org/event/3192.ics  
+    **比赛时间** : 2026-04-25 18:00:00 - 2026-04-26 18:00:00 UTC+8  
+    **比赛权重** : 48.17  
+    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+    **添加日历** : https://ctftime.org/event/2773.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
