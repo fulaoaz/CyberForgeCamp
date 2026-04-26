@@ -510,16 +510,6 @@ hide:
             **添加日历** : https://ctftime.org/event/2907.ics  
             
 
-        ??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
-            [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg){ width="200" align=left }](https://cybernsk.ru/)  
-            **比赛名称** : [CyberNSK-Finals](https://cybernsk.ru/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
-            **添加日历** : https://ctftime.org/event/3213.ics  
-            
-
         ??? Quote "[TRX CTF 2026](https://ctf.theromanxpl0.it/)"  
             [![](https://ctftime.org/media/events/TRX_smooth_1.png){ width="200" align=left }](https://ctf.theromanxpl0.it/)  
             **比赛名称** : [TRX CTF 2026](https://ctf.theromanxpl0.it/)  
@@ -538,16 +528,6 @@ hide:
             **比赛权重** : 85.48  
             **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
             **添加日历** : https://ctftime.org/event/3056.ics  
-            
-
-        ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
-            [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
-            **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-25 18:00:00 - 2026-04-26 18:00:00 UTC+8  
-            **比赛权重** : 48.17  
-            **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-            **添加日历** : https://ctftime.org/event/2773.ics  
             
 
 === "*即将开始*"
@@ -2196,6 +2176,16 @@ hide:
             **添加日历** : https://ctftime.org/event/3117.ics  
             
 
+        ??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
+            [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg){ width="200" align=left }](https://cybernsk.ru/)  
+            **比赛名称** : [CyberNSK-Finals](https://cybernsk.ru/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
+            **添加日历** : https://ctftime.org/event/3213.ics  
+            
+
         ??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
             [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
             **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
@@ -2223,7 +2213,17 @@ hide:
             **比赛时间** : 2026-04-25 15:00:00 - 2026-04-26 15:00:00 UTC+8  
             **比赛权重** : 24.53  
             **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-            **添加日历** : https://ctftime.org/event/3192.ics
+            **添加日历** : https://ctftime.org/event/3192.ics  
+            
+
+        ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
+            [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
+            **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-25 18:00:00 - 2026-04-26 18:00:00 UTC+8  
+            **比赛权重** : 48.17  
+            **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+            **添加日历** : https://ctftime.org/event/2773.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   

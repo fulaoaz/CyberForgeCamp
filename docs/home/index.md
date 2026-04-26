@@ -62,16 +62,6 @@ hide:
     **添加日历** : https://ctftime.org/event/2907.ics  
     
 
-??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
-    [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg){ width="200" align=left }](https://cybernsk.ru/)  
-    **比赛名称** : [CyberNSK-Finals](https://cybernsk.ru/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
-    **添加日历** : https://ctftime.org/event/3213.ics  
-    
-
 ??? Quote "[TRX CTF 2026](https://ctf.theromanxpl0.it/)"  
     [![](https://ctftime.org/media/events/TRX_smooth_1.png){ width="200" align=left }](https://ctf.theromanxpl0.it/)  
     **比赛名称** : [TRX CTF 2026](https://ctf.theromanxpl0.it/)  
@@ -92,14 +82,24 @@ hide:
     **添加日历** : https://ctftime.org/event/3056.ics  
     
 
-??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
-    [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
-    **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
+??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
+    [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
+    **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 18:00:00 - 2026-04-26 18:00:00 UTC+8  
-    **比赛权重** : 48.17  
-    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-    **添加日历** : https://ctftime.org/event/2773.ics  
+    **比赛时间** : 2026-05-01 03:00:00 - 2026-05-02 15:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Micro Club (https://ctftime.org/team/425393)  
+    **添加日历** : https://ctftime.org/event/3168.ics  
+    
+
+??? Quote "[KubSTU CTF](https://kubstu-ctf.online/)"  
+    [![](https://ctftime.org/media/events/1233.png){ width="200" align=left }](https://kubstu-ctf.online/)  
+    **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
+    **添加日历** : https://ctftime.org/event/3177.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
