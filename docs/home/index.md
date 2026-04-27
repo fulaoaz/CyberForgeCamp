@@ -62,16 +62,6 @@ hide:
     **添加日历** : https://ctftime.org/event/2907.ics  
     
 
-??? Quote "[UMDCTF 2026](https://umdctf.io/)"  
-    [![](https://ctftime.org/media/events/logo-2026-cropped.png){ width="200" align=left }](https://umdctf.io/)  
-    **比赛名称** : [UMDCTF 2026](https://umdctf.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 06:00:00 - 2026-04-27 06:00:00 UTC+8  
-    **比赛权重** : 85.48  
-    **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
-    **添加日历** : https://ctftime.org/event/3056.ics  
-    
-
 ??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
     [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
     **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
@@ -100,6 +90,15 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
     **添加日历** : https://ctftime.org/event/3209.ics  
+    
+
+??? Quote "UniVsThreats 26 Finals CTF"  
+    **比赛名称** : UniVsThreats 26 Finals CTF  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+    **添加日历** : https://ctftime.org/event/3244.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
