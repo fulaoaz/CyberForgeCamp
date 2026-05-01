@@ -501,15 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3142.ics  
             
 
-        ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
-            **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : NFITS (https://ctftime.org/team/360674)  
-            **添加日历** : https://ctftime.org/event/2907.ics  
-            
-
         ??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
             [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
             **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
@@ -530,14 +521,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3177.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
             [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
             **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
@@ -548,6 +531,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3209.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "UniVsThreats 26 Finals CTF"  
             **比赛名称** : UniVsThreats 26 Finals CTF  
             **比赛形式** : Jeopardy  
@@ -1397,6 +1388,15 @@ hide:
             **比赛权重** : 1.00  
             **赛事主办** : Winja CTF (https://ctftime.org/team/145228)  
             **添加日历** : https://ctftime.org/event/3160.ics  
+            
+
+        ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
+            **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : NFITS (https://ctftime.org/team/360674)  
+            **添加日历** : https://ctftime.org/event/2907.ics  
             
 
         ??? Quote "[KI CTF 2026](https://cyberconclave.yugam.in/)"  

@@ -369,6 +369,15 @@ comments: true
     **添加日历** : https://ctftime.org/event/3160.ics  
     
 
+??? Quote "[CSCG 2026](https://play.cscg.live/)"  
+    **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : NFITS (https://ctftime.org/team/360674)  
+    **添加日历** : https://ctftime.org/event/2907.ics  
+    
+
 ??? Quote "[KI CTF 2026](https://cyberconclave.yugam.in/)"  
     [![](https://ctftime.org/media/events/cyber-conclave-ki-ctf_1.png){ width="200" align=left }](https://cyberconclave.yugam.in/)  
     **比赛名称** : [KI CTF 2026](https://cyberconclave.yugam.in/)  
