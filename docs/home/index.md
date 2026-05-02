@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3142.ics  
     
 
-??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
-    [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
-    **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-01 03:00:00 - 2026-05-02 15:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Micro Club (https://ctftime.org/team/425393)  
-    **添加日历** : https://ctftime.org/event/3168.ics  
-    
-
 ??? Quote "[KubSTU CTF](https://kubstu-ctf.online/)"  
     [![](https://ctftime.org/media/events/1233.png){ width="200" align=left }](https://kubstu-ctf.online/)  
     **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
@@ -100,6 +90,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : Droidex (https://ctftime.org/team/430693)  
     **添加日历** : https://ctftime.org/event/3241.ics  
+    
+
+??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
+    [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
+    **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
+    **比赛权重** : 34.67  
+    **赛事主办** : pony7 (https://ctftime.org/team/20769)  
+    **添加日历** : https://ctftime.org/event/3186.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
