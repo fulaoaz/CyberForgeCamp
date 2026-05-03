@@ -501,25 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3142.ics  
             
 
-        ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
-            [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
-            **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-02 02:00:00 - 2026-05-04 02:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
-            **添加日历** : https://ctftime.org/event/3209.ics  
-            
-
-        ??? Quote "UniVsThreats 26 Finals CTF"  
-            **比赛名称** : UniVsThreats 26 Finals CTF  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
-            **添加日历** : https://ctftime.org/event/3244.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         ??? Quote "NepCTF 2026"  
@@ -2223,7 +2204,26 @@ hide:
             **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
             **比赛权重** : 0.00  
             **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
-            **添加日历** : https://ctftime.org/event/3177.ics
+            **添加日历** : https://ctftime.org/event/3177.ics  
+            
+
+        ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
+            [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
+            **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-05-02 02:00:00 - 2026-05-04 02:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
+            **添加日历** : https://ctftime.org/event/3209.ics  
+            
+
+        ??? Quote "UniVsThreats 26 Finals CTF"  
+            **比赛名称** : UniVsThreats 26 Finals CTF  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+            **添加日历** : https://ctftime.org/event/3244.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
