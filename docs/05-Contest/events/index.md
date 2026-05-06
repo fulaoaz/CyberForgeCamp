@@ -501,16 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3142.ics  
             
 
-        ??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
-            [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
-            **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-05 14:30:00 - 2026-05-06 14:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Droidex (https://ctftime.org/team/430693)  
-            **添加日历** : https://ctftime.org/event/3241.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         ??? Quote "NepCTF 2026"  
@@ -2223,7 +2213,17 @@ hide:
             **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
             **比赛权重** : 0.00  
             **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
-            **添加日历** : https://ctftime.org/event/3244.ics
+            **添加日历** : https://ctftime.org/event/3244.ics  
+            
+
+        ??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
+            [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
+            **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-05-05 14:30:00 - 2026-05-06 14:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Droidex (https://ctftime.org/team/430693)  
+            **添加日历** : https://ctftime.org/event/3241.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   

@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3142.ics  
     
 
-??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
-    [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
-    **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-05 14:30:00 - 2026-05-06 14:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Droidex (https://ctftime.org/team/430693)  
-    **添加日历** : https://ctftime.org/event/3241.ics  
-    
-
 ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
     [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
     **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
@@ -101,6 +91,16 @@ hide:
     **比赛权重** : 33.42  
     **赛事主办** : OSUSEC (https://ctftime.org/team/12858)  
     **添加日历** : https://ctftime.org/event/3124.ics  
+    
+
+??? Quote "[Breach CTF 2026](https://breachers.in/)"  
+    [![](https://ctftime.org/media/events/breachctf_logo.png){ width="200" align=left }](https://breachers.in/)  
+    **比赛名称** : [Breach CTF 2026](https://breachers.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-09 10:30:00 - 2026-05-10 10:30:00 UTC+8  
+    **比赛权重** : 23.86  
+    **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
+    **添加日历** : https://ctftime.org/event/3119.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
