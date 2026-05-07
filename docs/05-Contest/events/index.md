@@ -501,14 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3142.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
             [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
             **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
@@ -519,6 +511,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3186.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
             [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
             **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
