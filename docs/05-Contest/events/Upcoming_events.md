@@ -13,16 +13,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)"  
-    [![](https://ctftime.org/media/events/Logo_15.png){ width="200" align=left }](https://bts2026.wh.edu.pl/)  
-    **比赛名称** : [Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 00:00:00 - 2026-05-10 18:00:00 UTC+8  
-    **比赛权重** : 56.25  
-    **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-    **添加日历** : https://ctftime.org/event/3137.ics  
-    
-
 ??? Quote "[DAMCTF 2026](https://damctf.xyz/)"  
     [![](https://ctftime.org/media/events/damctf.png){ width="200" align=left }](https://damctf.xyz/)  
     **比赛名称** : [DAMCTF 2026](https://damctf.xyz/)  

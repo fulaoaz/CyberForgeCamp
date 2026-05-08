@@ -511,14 +511,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3018.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)"  
             [![](https://ctftime.org/media/events/Logo_15.png){ width="200" align=left }](https://bts2026.wh.edu.pl/)  
             **比赛名称** : [Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)  
@@ -529,6 +521,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3137.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[DAMCTF 2026](https://damctf.xyz/)"  
             [![](https://ctftime.org/media/events/damctf.png){ width="200" align=left }](https://damctf.xyz/)  
             **比赛名称** : [DAMCTF 2026](https://damctf.xyz/)  
