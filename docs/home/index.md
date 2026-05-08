@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3142.ics  
     
 
-??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
-    [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
-    **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
-    **比赛权重** : 34.67  
-    **赛事主办** : pony7 (https://ctftime.org/team/20769)  
-    **添加日历** : https://ctftime.org/event/3186.ics  
-    
-
 ??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
     [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
     **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
@@ -101,6 +91,16 @@ hide:
     **比赛权重** : 23.86  
     **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
     **添加日历** : https://ctftime.org/event/3119.ics  
+    
+
+??? Quote "[From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)"  
+    [![](https://ctftime.org/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg){ width="200" align=left }](https://romhack.io/romhack-camp-ctf/)  
+    **比赛名称** : [From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
+    **添加日历** : https://ctftime.org/event/3111.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
