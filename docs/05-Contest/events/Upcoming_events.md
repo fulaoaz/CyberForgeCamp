@@ -13,16 +13,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Hack2Dawn 2026](https://hack.pawnguard.org/)"  
-    [![](https://ctftime.org/media/events/hack2dawn-logo.jpg){ width="200" align=left }](https://hack.pawnguard.org/)  
-    **比赛名称** : [Hack2Dawn 2026](https://hack.pawnguard.org/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2026-05-10 03:00:00 - 2026-05-10 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : PawnGuard (https://ctftime.org/team/427740)  
-    **添加日历** : https://ctftime.org/event/3256.ics  
-    
-
 ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
     [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
     **比赛名称** : [TJCTF 2026](https://tjctf.org/)  

@@ -66,4 +66,14 @@ comments: true
     **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
     **比赛权重** : 0.00  
     **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
-    **添加日历** : https://ctftime.org/event/3111.ics
+    **添加日历** : https://ctftime.org/event/3111.ics  
+    
+
+??? Quote "[Hack2Dawn 2026](https://hack.pawnguard.org/)"  
+    [![](https://ctftime.org/media/events/hack2dawn-logo.jpg){ width="200" align=left }](https://hack.pawnguard.org/)  
+    **比赛名称** : [Hack2Dawn 2026](https://hack.pawnguard.org/)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-05-10 03:00:00 - 2026-05-10 10:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : PawnGuard (https://ctftime.org/team/427740)  
+    **添加日历** : https://ctftime.org/event/3256.ics
