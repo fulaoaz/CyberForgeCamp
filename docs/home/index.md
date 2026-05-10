@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3018.ics  
     
 
-??? Quote "[Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)"  
-    [![](https://ctftime.org/media/events/Logo_15.png){ width="200" align=left }](https://bts2026.wh.edu.pl/)  
-    **比赛名称** : [Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 00:00:00 - 2026-05-10 18:00:00 UTC+8  
-    **比赛权重** : 56.25  
-    **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-    **添加日历** : https://ctftime.org/event/3137.ics  
-    
-
 ??? Quote "[DAMCTF 2026](https://damctf.xyz/)"  
     [![](https://ctftime.org/media/events/damctf.png){ width="200" align=left }](https://damctf.xyz/)  
     **比赛名称** : [DAMCTF 2026](https://damctf.xyz/)  
@@ -71,16 +61,6 @@ hide:
     **比赛权重** : 33.42  
     **赛事主办** : OSUSEC (https://ctftime.org/team/12858)  
     **添加日历** : https://ctftime.org/event/3124.ics  
-    
-
-??? Quote "[From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)"  
-    [![](https://ctftime.org/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg){ width="200" align=left }](https://romhack.io/romhack-camp-ctf/)  
-    **比赛名称** : [From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
-    **添加日历** : https://ctftime.org/event/3111.ics  
     
 
 ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
@@ -101,6 +81,25 @@ hide:
     **比赛权重** : 32.59  
     **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
     **添加日历** : https://ctftime.org/event/3132.ics  
+    
+
+??? Quote "[UralCUP 2026](https://uralctf.org/)"  
+    [![](https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg){ width="200" align=left }](https://uralctf.org/)  
+    **比赛名称** : [UralCUP 2026](https://uralctf.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-17 13:00:00 - 2026-05-17 21:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : TyumGUard (https://ctftime.org/team/380152)  
+    **添加日历** : https://ctftime.org/event/3214.ics  
+    
+
+??? Quote "[DEF CON CTF Qualifier 2026](https://bbbirds.org/)"  
+    **比赛名称** : [DEF CON CTF Qualifier 2026](https://bbbirds.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-23 05:00:00 - 2026-05-25 05:00:00 UTC+8  
+    **比赛权重** : 63.22  
+    **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
+    **添加日历** : https://ctftime.org/event/3205.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

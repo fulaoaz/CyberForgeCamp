@@ -1274,6 +1274,16 @@ comments: true
     **添加日历** : https://ctftime.org/event/3186.ics  
     
 
+??? Quote "[Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)"  
+    [![](https://ctftime.org/media/events/Logo_15.png){ width="200" align=left }](https://bts2026.wh.edu.pl/)  
+    **比赛名称** : [Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-09 00:00:00 - 2026-05-10 18:00:00 UTC+8  
+    **比赛权重** : 56.25  
+    **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
+    **添加日历** : https://ctftime.org/event/3137.ics  
+    
+
 ??? Quote "[Breach CTF 2026](https://breachers.in/)"  
     [![](https://ctftime.org/media/events/breachctf_logo.png){ width="200" align=left }](https://breachers.in/)  
     **比赛名称** : [Breach CTF 2026](https://breachers.in/)  
@@ -1282,6 +1292,16 @@ comments: true
     **比赛权重** : 23.86  
     **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
     **添加日历** : https://ctftime.org/event/3119.ics  
+    
+
+??? Quote "[From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)"  
+    [![](https://ctftime.org/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg){ width="200" align=left }](https://romhack.io/romhack-camp-ctf/)  
+    **比赛名称** : [From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
+    **添加日历** : https://ctftime.org/event/3111.ics  
     
 
 ??? Quote "[Hack2Dawn 2026](https://hack.pawnguard.org/)"  
