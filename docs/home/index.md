@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[DAMCTF 2026](https://damctf.xyz/)"  
-    [![](https://ctftime.org/media/events/damctf.png){ width="200" align=left }](https://damctf.xyz/)  
-    **比赛名称** : [DAMCTF 2026](https://damctf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 08:00:00 - 2026-05-11 08:00:00 UTC+8  
-    **比赛权重** : 33.42  
-    **赛事主办** : OSUSEC (https://ctftime.org/team/12858)  
-    **添加日历** : https://ctftime.org/event/3124.ics  
-    
-
 ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
     [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
     **比赛名称** : [TJCTF 2026](https://tjctf.org/)  
@@ -100,6 +90,16 @@ hide:
     **比赛权重** : 0  
     **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
     **添加日历** : https://ctftime.org/event/3136.ics  
+    
+
+??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
+    [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
+    **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 01:00:00 - 2026-05-31 04:50:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
+    **添加日历** : https://ctftime.org/event/3174.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
