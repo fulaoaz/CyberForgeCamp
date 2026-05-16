@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3195.ics  
     
 
-??? Quote "[DaVinciCTF 2026](https://dvc.tf/)"  
-    [![](https://ctftime.org/media/events/davincictf_2026_2.png){ width="200" align=left }](https://dvc.tf/)  
-    **比赛名称** : [DaVinciCTF 2026](https://dvc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-16 16:00:00 - 2026-05-17 01:00:00 UTC+8  
-    **比赛权重** : 32.59  
-    **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
-    **添加日历** : https://ctftime.org/event/3132.ics  
-    
-
 ??? Quote "[UralCUP 2026](https://uralctf.org/)"  
     [![](https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg){ width="200" align=left }](https://uralctf.org/)  
     **比赛名称** : [UralCUP 2026](https://uralctf.org/)  
@@ -100,6 +90,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
     **添加日历** : https://ctftime.org/event/3174.ics  
+    
+
+??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
+    [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
+    **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 02:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
+    **添加日历** : https://ctftime.org/event/3220.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
