@@ -501,14 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3195.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[DaVinciCTF 2026](https://dvc.tf/)"  
             [![](https://ctftime.org/media/events/davincictf_2026_2.png){ width="200" align=left }](https://dvc.tf/)  
             **比赛名称** : [DaVinciCTF 2026](https://dvc.tf/)  
@@ -519,6 +511,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3132.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[UralCUP 2026](https://uralctf.org/)"  
             [![](https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg){ width="200" align=left }](https://uralctf.org/)  
             **比赛名称** : [UralCUP 2026](https://uralctf.org/)  
