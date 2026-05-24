@@ -1361,4 +1361,14 @@ comments: true
     **比赛时间** : 2026-05-17 13:00:00 - 2026-05-17 21:00:00 UTC+8  
     **比赛权重** : 0  
     **赛事主办** : TyumGUard (https://ctftime.org/team/380152)  
-    **添加日历** : https://ctftime.org/event/3214.ics
+    **添加日历** : https://ctftime.org/event/3214.ics  
+    
+
+??? Quote "[SecLeaf Q CTF 2026](https://ctf.secleaf.tech/)"  
+    [![](https://ctftime.org/media/events/CTF_3.png){ width="200" align=left }](https://ctf.secleaf.tech/)  
+    **比赛名称** : [SecLeaf Q CTF 2026](https://ctf.secleaf.tech/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-23 22:00:00 - 2026-05-24 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
+    **添加日历** : https://ctftime.org/event/3136.ics

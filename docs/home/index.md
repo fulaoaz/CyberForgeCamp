@@ -52,16 +52,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3205.ics  
     
 
-??? Quote "[SecLeaf Q CTF 2026](https://ctf.secleaf.tech/)"  
-    [![](https://ctftime.org/media/events/CTF_3.png){ width="200" align=left }](https://ctf.secleaf.tech/)  
-    **比赛名称** : [SecLeaf Q CTF 2026](https://ctf.secleaf.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-23 22:00:00 - 2026-05-24 22:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
-    **添加日历** : https://ctftime.org/event/3136.ics  
-    
-
 ??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
     [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
     **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
@@ -99,6 +89,16 @@ hide:
     **比赛权重** : 53.29  
     **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
     **添加日历** : https://ctftime.org/event/3247.ics  
+    
+
+??? Quote "[Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)"  
+    [![](https://ctftime.org/media/events/73c9081878a4571d117439fc4a8e934d.png){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
+    **比赛名称** : [Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-31 20:00:00 - 2026-06-01 20:00:00 UTC+8  
+    **比赛权重** : 47.50  
+    **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
+    **添加日历** : https://ctftime.org/event/3178.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
