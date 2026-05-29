@@ -9,4 +9,11 @@ comments: true
 
 ## 国际赛事
 
-暂无已录入赛事。
+??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
+    [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
+    **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 01:00:00 - 2026-05-31 04:50:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
+    **添加日历** : https://ctftime.org/event/3174.ics
