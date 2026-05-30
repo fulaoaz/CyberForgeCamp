@@ -53,25 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3174.ics  
     
 
-??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
-    [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
-    **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 02:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
-    **添加日历** : https://ctftime.org/event/3220.ics  
-    
-
-??? Quote "[WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)"  
-    **比赛名称** : [WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 03:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
-    **添加日历** : https://ctftime.org/event/3243.ics  
-    
-
 ??? Quote "[BYUCTF 2026](https://ctfd.cyberjousting.com/)"  
     [![](https://ctftime.org/media/events/cougar.png){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
     **比赛名称** : [BYUCTF 2026](https://ctfd.cyberjousting.com/)  
@@ -99,6 +80,25 @@ hide:
     **比赛权重** : 69.00  
     **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
     **添加日历** : https://ctftime.org/event/3041.ics  
+    
+
+??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
+    [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
+    **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-06 20:00:00 - 2026-06-07 20:00:00 UTC+8  
+    **比赛权重** : 31.00  
+    **赛事主办** : Drovosec, SAS CREW (https://ctftime.org/team/210132, https://ctftime.org/team/283057)  
+    **添加日历** : https://ctftime.org/event/3109.ics  
+    
+
+??? Quote "[SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)"  
+    **比赛名称** : [SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-07 18:00:00 - 2026-06-08 18:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Singapore Students Merger (https://ctftime.org/team/299075)  
+    **添加日历** : https://ctftime.org/event/2913.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

@@ -1380,4 +1380,23 @@ comments: true
     **比赛时间** : 2026-05-23 22:00:00 - 2026-05-24 22:00:00 UTC+8  
     **比赛权重** : 0  
     **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
-    **添加日历** : https://ctftime.org/event/3136.ics
+    **添加日历** : https://ctftime.org/event/3136.ics  
+    
+
+??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
+    [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
+    **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 02:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
+    **添加日历** : https://ctftime.org/event/3220.ics  
+    
+
+??? Quote "[WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)"  
+    **比赛名称** : [WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 03:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
+    **添加日历** : https://ctftime.org/event/3243.ics
