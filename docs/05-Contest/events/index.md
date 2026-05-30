@@ -501,14 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3174.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
             [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
             **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
@@ -538,6 +530,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3247.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)"  
             [![](https://ctftime.org/media/events/73c9081878a4571d117439fc4a8e934d.png){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
             **比赛名称** : [Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)  
