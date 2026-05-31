@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[BYUCTF 2026](https://ctfd.cyberjousting.com/)"  
-    [![](https://ctftime.org/media/events/cougar.png){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
-    **比赛名称** : [BYUCTF 2026](https://ctfd.cyberjousting.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 20:00:00 - 2026-05-31 20:00:00 UTC+8  
-    **比赛权重** : 53.29  
-    **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
-    **添加日历** : https://ctftime.org/event/3247.ics  
-    
-
 ??? Quote "[Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)"  
     [![](https://ctftime.org/media/events/73c9081878a4571d117439fc4a8e934d.png){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
     **比赛名称** : [Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)  
@@ -99,6 +89,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
     **添加日历** : https://ctftime.org/event/3125.ics  
+    
+
+??? Quote "[Crypto CTF 2026](https://cr.yp.toc.tf/)"  
+    [![](https://ctftime.org/media/events/cryptoctf_logo.jpg){ width="200" align=left }](https://cr.yp.toc.tf/)  
+    **比赛名称** : [Crypto CTF 2026](https://cr.yp.toc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
+    **比赛权重** : 91.00  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/3034.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

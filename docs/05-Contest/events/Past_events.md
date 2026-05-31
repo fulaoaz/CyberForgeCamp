@@ -1409,4 +1409,14 @@ comments: true
     **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 03:00:00 UTC+8  
     **比赛权重** : 0.00  
     **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
-    **添加日历** : https://ctftime.org/event/3243.ics
+    **添加日历** : https://ctftime.org/event/3243.ics  
+    
+
+??? Quote "[BYUCTF 2026](https://ctfd.cyberjousting.com/)"  
+    [![](https://ctftime.org/media/events/cougar.png){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
+    **比赛名称** : [BYUCTF 2026](https://ctfd.cyberjousting.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-30 20:00:00 - 2026-05-31 20:00:00 UTC+8  
+    **比赛权重** : 53.29  
+    **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
+    **添加日历** : https://ctftime.org/event/3247.ics
