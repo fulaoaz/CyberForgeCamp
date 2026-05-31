@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
-    [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
-    **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 01:00:00 - 2026-05-31 04:50:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
-    **添加日历** : https://ctftime.org/event/3174.ics  
-    
-
 ??? Quote "[BYUCTF 2026](https://ctfd.cyberjousting.com/)"  
     [![](https://ctftime.org/media/events/cougar.png){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
     **比赛名称** : [BYUCTF 2026](https://ctfd.cyberjousting.com/)  
@@ -99,6 +89,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : Singapore Students Merger (https://ctftime.org/team/299075)  
     **添加日历** : https://ctftime.org/event/2913.ics  
+    
+
+??? Quote "[CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)"  
+    [![](https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+    **比赛名称** : [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-13 21:00:00 - 2026-06-15 07:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
+    **添加日历** : https://ctftime.org/event/3125.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
