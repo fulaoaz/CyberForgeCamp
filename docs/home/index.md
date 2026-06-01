@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)"  
-    [![](https://ctftime.org/media/events/73c9081878a4571d117439fc4a8e934d.png){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
-    **比赛名称** : [Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-31 20:00:00 - 2026-06-01 20:00:00 UTC+8  
-    **比赛权重** : 47.50  
-    **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-    **添加日历** : https://ctftime.org/event/3178.ics  
-    
-
 ??? Quote "[GPN CTF 2026](https://gpn24.ctf.kitctf.de/)"  
     **比赛名称** : [GPN CTF 2026](https://gpn24.ctf.kitctf.de/)  
     **比赛形式** : Jeopardy  
@@ -99,6 +89,15 @@ hide:
     **比赛权重** : 91.00  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3034.ics  
+    
+
+??? Quote "[BCACTF 7.0](https://www.bcactf.com/)"  
+    **比赛名称** : [BCACTF 7.0](https://www.bcactf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-19 18:00:00 - 2026-06-22 18:00:00 UTC+8  
+    **比赛权重** : 65.05  
+    **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
+    **添加日历** : https://ctftime.org/event/3246.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
