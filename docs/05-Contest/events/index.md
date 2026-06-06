@@ -500,14 +500,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3041.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
-    === "国际赛事"
         ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
             [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
             **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
@@ -518,6 +510,14 @@ hide:
             **添加日历** : https://ctftime.org/event/3109.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
+            
+    === "国际赛事"
         ??? Quote "[SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)"  
             **比赛名称** : [SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)  
             **比赛形式** : Jeopardy  
