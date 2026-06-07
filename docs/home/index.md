@@ -43,15 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[GPN CTF 2026](https://gpn24.ctf.kitctf.de/)"  
-    **比赛名称** : [GPN CTF 2026](https://gpn24.ctf.kitctf.de/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-05 18:00:00 - 2026-06-07 06:00:00 UTC+8  
-    **比赛权重** : 69.00  
-    **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
-    **添加日历** : https://ctftime.org/event/3041.ics  
-    
-
 ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
     [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
     **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
@@ -98,6 +89,15 @@ hide:
     **比赛权重** : 65.05  
     **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
     **添加日历** : https://ctftime.org/event/3246.ics  
+    
+
+??? Quote "[Google Capture The Flag 2026](https://g.co/ctf)"  
+    **比赛名称** : [Google Capture The Flag 2026](https://g.co/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8  
+    **比赛权重** : 88.82  
+    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
+    **添加日历** : https://ctftime.org/event/3222.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

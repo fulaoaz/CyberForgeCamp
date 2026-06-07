@@ -1429,4 +1429,13 @@ comments: true
     **比赛时间** : 2026-05-31 20:00:00 - 2026-06-01 20:00:00 UTC+8  
     **比赛权重** : 47.50  
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-    **添加日历** : https://ctftime.org/event/3178.ics
+    **添加日历** : https://ctftime.org/event/3178.ics  
+    
+
+??? Quote "[GPN CTF 2026](https://gpn24.ctf.kitctf.de/)"  
+    **比赛名称** : [GPN CTF 2026](https://gpn24.ctf.kitctf.de/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-05 18:00:00 - 2026-06-07 06:00:00 UTC+8  
+    **比赛权重** : 69.00  
+    **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
+    **添加日历** : https://ctftime.org/event/3041.ics
