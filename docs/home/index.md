@@ -43,15 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)"  
-    **比赛名称** : [SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-07 18:00:00 - 2026-06-08 18:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Singapore Students Merger (https://ctftime.org/team/299075)  
-    **添加日历** : https://ctftime.org/event/2913.ics  
-    
-
 ??? Quote "[CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)"  
     [![](https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
     **比赛名称** : [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)  
@@ -98,6 +89,16 @@ hide:
     **比赛权重** : 22.14  
     **赛事主办** : V1t (https://ctftime.org/team/280950)  
     **添加日历** : https://ctftime.org/event/3249.ics  
+    
+
+??? Quote "[SekaiCTF 2026](https://ctf.sekai.team/)"  
+    [![](https://ctftime.org/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1_1.png){ width="200" align=left }](https://ctf.sekai.team/)  
+    **比赛名称** : [SekaiCTF 2026](https://ctf.sekai.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-27 16:00:00 - 2026-06-29 16:00:00 UTC+8  
+    **比赛权重** : 79.25  
+    **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
+    **添加日历** : https://ctftime.org/event/3113.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
