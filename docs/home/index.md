@@ -53,16 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3125.ics  
     
 
-??? Quote "[Crypto CTF 2026](https://cr.yp.toc.tf/)"  
-    [![](https://ctftime.org/media/events/cryptoctf_logo.jpg){ width="200" align=left }](https://cr.yp.toc.tf/)  
-    **比赛名称** : [Crypto CTF 2026](https://cr.yp.toc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
-    **比赛权重** : 91.00  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/3034.ics  
-    
-
 ??? Quote "[BCACTF 7.0](https://www.bcactf.com/)"  
     **比赛名称** : [BCACTF 7.0](https://www.bcactf.com/)  
     **比赛形式** : Jeopardy  
@@ -99,6 +89,15 @@ hide:
     **比赛权重** : 79.25  
     **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
     **添加日历** : https://ctftime.org/event/3113.ics  
+    
+
+??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
+    **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-28 10:00:00 - 2026-06-29 10:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
+    **添加日历** : https://ctftime.org/event/3173.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
