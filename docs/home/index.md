@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)"  
-    [![](https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-    **比赛名称** : [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-13 21:00:00 - 2026-06-15 07:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-    **添加日历** : https://ctftime.org/event/3125.ics  
-    
-
 ??? Quote "[BCACTF 7.0](https://www.bcactf.com/)"  
     **比赛名称** : [BCACTF 7.0](https://www.bcactf.com/)  
     **比赛形式** : Jeopardy  
@@ -98,6 +88,15 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/3173.ics  
+    
+
+??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
+    **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-04 08:00:00 - 2026-07-06 08:00:00 UTC+8  
+    **比赛权重** : 23.47  
+    **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
+    **添加日历** : https://ctftime.org/event/3180.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
