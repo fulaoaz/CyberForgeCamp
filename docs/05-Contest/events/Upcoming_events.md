@@ -13,15 +13,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Google Capture The Flag 2026](https://g.co/ctf)"  
-    **比赛名称** : [Google Capture The Flag 2026](https://g.co/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8  
-    **比赛权重** : 88.82  
-    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
-    **添加日历** : https://ctftime.org/event/3222.ics  
-    
-
 ??? Quote "[V1T CTF 2026](https://ctf.v1t.site/)"  
     [![](https://ctftime.org/media/events/Ban_sao_cua_V1T_1.png){ width="200" align=left }](https://ctf.v1t.site/)  
     **比赛名称** : [V1T CTF 2026](https://ctf.v1t.site/)  

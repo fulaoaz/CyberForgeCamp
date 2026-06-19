@@ -15,4 +15,13 @@ comments: true
     **比赛时间** : 2026-06-19 18:00:00 - 2026-06-22 18:00:00 UTC+8  
     **比赛权重** : 65.05  
     **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
-    **添加日历** : https://ctftime.org/event/3246.ics
+    **添加日历** : https://ctftime.org/event/3246.ics  
+    
+
+??? Quote "[Google Capture The Flag 2026](https://g.co/ctf)"  
+    **比赛名称** : [Google Capture The Flag 2026](https://g.co/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8  
+    **比赛权重** : 88.82  
+    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
+    **添加日历** : https://ctftime.org/event/3222.ics
