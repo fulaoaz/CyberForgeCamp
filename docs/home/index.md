@@ -52,15 +52,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3246.ics  
     
 
-??? Quote "[Google Capture The Flag 2026](https://g.co/ctf)"  
-    **比赛名称** : [Google Capture The Flag 2026](https://g.co/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8  
-    **比赛权重** : 88.82  
-    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
-    **添加日历** : https://ctftime.org/event/3222.ics  
-    
-
 ??? Quote "[V1T CTF 2026](https://ctf.v1t.site/)"  
     [![](https://ctftime.org/media/events/Ban_sao_cua_V1T_1.png){ width="200" align=left }](https://ctf.v1t.site/)  
     **比赛名称** : [V1T CTF 2026](https://ctf.v1t.site/)  
@@ -97,6 +88,16 @@ hide:
     **比赛权重** : 23.47  
     **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
     **添加日历** : https://ctftime.org/event/3180.ics  
+    
+
+??? Quote "[R3CTF 2026](https://ctf2026.r3kapig.com/)"  
+    [![](https://ctftime.org/media/events/r3kapig.png){ width="200" align=left }](https://ctf2026.r3kapig.com/)  
+    **比赛名称** : [R3CTF 2026](https://ctf2026.r3kapig.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-04 10:00:00 - 2026-07-06 10:00:00 UTC+8  
+    **比赛权重** : 35.95  
+    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
+    **添加日历** : https://ctftime.org/event/3149.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
