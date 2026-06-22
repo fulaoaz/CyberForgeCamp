@@ -43,15 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[BCACTF 7.0](https://www.bcactf.com/)"  
-    **比赛名称** : [BCACTF 7.0](https://www.bcactf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-19 18:00:00 - 2026-06-22 18:00:00 UTC+8  
-    **比赛权重** : 65.05  
-    **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
-    **添加日历** : https://ctftime.org/event/3246.ics  
-    
-
 ??? Quote "[V1T CTF 2026](https://ctf.v1t.site/)"  
     [![](https://ctftime.org/media/events/Ban_sao_cua_V1T_1.png){ width="200" align=left }](https://ctf.v1t.site/)  
     **比赛名称** : [V1T CTF 2026](https://ctf.v1t.site/)  
@@ -98,6 +89,16 @@ hide:
     **比赛权重** : 35.95  
     **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
     **添加日历** : https://ctftime.org/event/3149.ics  
+    
+
+??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
+    [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
+    **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-11 02:00:00 - 2026-07-13 02:00:00 UTC+8  
+    **比赛权重** : 34.47  
+    **赛事主办** : L3ak (https://ctftime.org/team/220336)  
+    **添加日历** : https://ctftime.org/event/3061.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
