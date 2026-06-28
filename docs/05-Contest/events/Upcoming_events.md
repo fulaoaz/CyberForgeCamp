@@ -13,15 +13,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
-    **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-28 10:00:00 - 2026-06-29 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-    **添加日历** : https://ctftime.org/event/3173.ics  
-    
-
 ??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
     **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
     **比赛形式** : Jeopardy  
