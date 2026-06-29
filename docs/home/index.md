@@ -53,15 +53,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3113.ics  
     
 
-??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
-    **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-28 10:00:00 - 2026-06-29 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-    **添加日历** : https://ctftime.org/event/3173.ics  
-    
-
 ??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
     **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
     **比赛形式** : Jeopardy  
@@ -99,6 +90,15 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
     **添加日历** : https://ctftime.org/event/3104.ics  
+    
+
+??? Quote "[DownUnderCTF 2026](https://2026.duc.tf/)"  
+    **比赛名称** : [DownUnderCTF 2026](https://2026.duc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-18 03:30:00 - 2026-07-20 03:30:00 UTC+8  
+    **比赛权重** : 94.99  
+    **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
+    **添加日历** : https://ctftime.org/event/3112.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

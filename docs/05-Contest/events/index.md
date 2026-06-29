@@ -501,15 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3113.ics  
             
 
-        ??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
-            **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-06-28 10:00:00 - 2026-06-29 10:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-            **添加日历** : https://ctftime.org/event/3173.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         ??? Quote "NepCTF 2026"  
@@ -2223,7 +2214,16 @@ hide:
             **比赛时间** : 2026-06-27 10:00:00 - 2026-06-28 22:00:00 UTC+8  
             **比赛权重** : 22.14  
             **赛事主办** : V1t (https://ctftime.org/team/280950)  
-            **添加日历** : https://ctftime.org/event/3249.ics
+            **添加日历** : https://ctftime.org/event/3249.ics  
+            
+
+        ??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
+            **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-06-28 10:00:00 - 2026-06-29 10:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
+            **添加日历** : https://ctftime.org/event/3173.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
