@@ -43,16 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[SekaiCTF 2026](https://ctf.sekai.team/)"  
-    [![](https://ctftime.org/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1_1.png){ width="200" align=left }](https://ctf.sekai.team/)  
-    **比赛名称** : [SekaiCTF 2026](https://ctf.sekai.team/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-27 16:00:00 - 2026-06-29 16:00:00 UTC+8  
-    **比赛权重** : 79.25  
-    **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
-    **添加日历** : https://ctftime.org/event/3113.ics  
-    
-
 ??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
     **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
     **比赛形式** : Jeopardy  
@@ -99,6 +89,15 @@ hide:
     **比赛权重** : 94.99  
     **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
     **添加日历** : https://ctftime.org/event/3112.ics  
+    
+
+??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
+    **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-25 08:00:00 - 2026-07-27 08:00:00 UTC+8  
+    **比赛权重** : 69.35  
+    **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+    **添加日历** : https://ctftime.org/event/3148.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
