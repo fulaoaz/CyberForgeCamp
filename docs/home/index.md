@@ -43,25 +43,6 @@ hide:
     
 
 === "国外比赛"
-??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
-    **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 08:00:00 - 2026-07-06 08:00:00 UTC+8  
-    **比赛权重** : 23.47  
-    **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
-    **添加日历** : https://ctftime.org/event/3180.ics  
-    
-
-??? Quote "[R3CTF 2026](https://ctf2026.r3kapig.com/)"  
-    [![](https://ctftime.org/media/events/r3kapig.png){ width="200" align=left }](https://ctf2026.r3kapig.com/)  
-    **比赛名称** : [R3CTF 2026](https://ctf2026.r3kapig.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 10:00:00 - 2026-07-06 10:00:00 UTC+8  
-    **比赛权重** : 35.95  
-    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
-    **添加日历** : https://ctftime.org/event/3149.ics  
-    
-
 ??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
     [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
     **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
@@ -98,6 +79,25 @@ hide:
     **比赛权重** : 69.35  
     **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
     **添加日历** : https://ctftime.org/event/3148.ics  
+    
+
+??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
+    **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
+    **比赛权重** : 69.22  
+    **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
+    **添加日历** : https://ctftime.org/event/3201.ics  
+    
+
+??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
+    [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
+    **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
+    **添加日历** : https://ctftime.org/event/3237.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
