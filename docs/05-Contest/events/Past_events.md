@@ -23,6 +23,12 @@ comments: true
     **比赛详细** : 待补充  
     
 
+??? Quote "NepCTF 2026"  
+    **比赛名称** : NepCTF 2026  
+    **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+    **比赛详细** : 筹备中  
+    
+
 ## 国际赛事
 
 ??? Quote "[Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)"  

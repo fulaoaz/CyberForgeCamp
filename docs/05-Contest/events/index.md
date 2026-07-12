@@ -489,11 +489,7 @@ hide:
 
 === "*正在进行*"
     === "国内赛事"
-        ??? Quote "NepCTF 2026"  
-            **比赛名称** : NepCTF 2026  
-            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-            **比赛详细** : 筹备中  
-            
+        暂无已录入赛事。
     === "国际赛事"
         ??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
             [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
@@ -703,6 +699,12 @@ hide:
             **比赛名称** : [数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)  
             **比赛时间** : 2026年04月12日 09:00 - 2026年04月12日 12:00  
             **比赛详细** : 待补充  
+            
+
+        ??? Quote "NepCTF 2026"  
+            **比赛名称** : NepCTF 2026  
+            **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+            **比赛详细** : 筹备中  
             
     === "国际赛事"
         ??? Quote "[Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)"  
