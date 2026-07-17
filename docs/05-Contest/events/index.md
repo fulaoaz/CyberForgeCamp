@@ -491,12 +491,6 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        暂无已录入赛事。
-
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[OmniCTF 2026 Quals](https://omnictf.com/)"  
             [![](https://ctftime.org/media/events/logo1024x1024_1.png){ width="200" align=left }](https://omnictf.com/)  
             **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
@@ -516,6 +510,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3112.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
             **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
             **比赛形式** : Jeopardy  
