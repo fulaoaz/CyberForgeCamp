@@ -39,25 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[OmniCTF 2026 Quals](https://omnictf.com/)"  
-    [![](https://ctftime.org/media/events/logo1024x1024_1.png){ width="200" align=left }](https://omnictf.com/)  
-    **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-17 23:00:00 - 2026-07-19 23:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
-    **添加日历** : https://ctftime.org/event/3104.ics  
-    
-
-??? Quote "[DownUnderCTF 2026](https://2026.duc.tf/)"  
-    **比赛名称** : [DownUnderCTF 2026](https://2026.duc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-18 03:30:00 - 2026-07-20 03:30:00 UTC+8  
-    **比赛权重** : 94.99  
-    **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
-    **添加日历** : https://ctftime.org/event/3112.ics  
-    
-
 ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
     **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
     **比赛形式** : Jeopardy  
@@ -94,6 +75,26 @@ hide:
     **比赛权重** : 24.70  
     **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
     **添加日历** : https://ctftime.org/event/3052.ics  
+    
+
+??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
+    [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
+    **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
+    **添加日历** : https://ctftime.org/event/3181.ics  
+    
+
+??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
+    [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
+    **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-21 20:00:00 - 2026-08-23 20:00:00 UTC+8  
+    **比赛权重** : 24.66  
+    **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
+    **添加日历** : https://ctftime.org/event/3065.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
