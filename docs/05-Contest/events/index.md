@@ -500,15 +500,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3148.ics  
             
 
-        ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
-            **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
-            **比赛权重** : 69.22  
-            **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-            **添加日历** : https://ctftime.org/event/3201.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         暂无已录入赛事。
@@ -2225,7 +2216,16 @@ hide:
             **比赛时间** : 2026-07-18 03:30:00 - 2026-07-20 03:30:00 UTC+8  
             **比赛权重** : 94.99  
             **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
-            **添加日历** : https://ctftime.org/event/3112.ics
+            **添加日历** : https://ctftime.org/event/3112.ics  
+            
+
+        ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
+            **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
+            **比赛权重** : 69.22  
+            **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
+            **添加日历** : https://ctftime.org/event/3201.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   

@@ -48,15 +48,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3148.ics  
     
 
-??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
-    **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
-    **比赛权重** : 69.22  
-    **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-    **添加日历** : https://ctftime.org/event/3201.ics  
-    
-
 ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
     [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
     **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
@@ -95,6 +86,16 @@ hide:
     **比赛权重** : 24.66  
     **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
     **添加日历** : https://ctftime.org/event/3065.ics  
+    
+
+??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
+    [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
+    **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+    **比赛权重** : 90.53  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/3033.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
