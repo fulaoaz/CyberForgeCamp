@@ -39,15 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
-    **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-25 08:00:00 - 2026-07-27 08:00:00 UTC+8  
-    **比赛权重** : 69.35  
-    **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
-    **添加日历** : https://ctftime.org/event/3148.ics  
-    
-
 ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
     [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
     **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
@@ -96,6 +87,16 @@ hide:
     **比赛权重** : 90.53  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3033.ics  
+    
+
+??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
+    [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
+    **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-05 00:00:00 - 2026-09-07 00:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
+    **添加日历** : https://ctftime.org/event/3097.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

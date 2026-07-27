@@ -491,14 +491,7 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
-            **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-07-25 08:00:00 - 2026-07-27 08:00:00 UTC+8  
-            **比赛权重** : 69.35  
-            **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
-            **添加日历** : https://ctftime.org/event/3148.ics  
-            
+        暂无已录入赛事。
 
 === "*即将开始*"
     === "国内赛事"
@@ -2217,6 +2210,15 @@ hide:
             **比赛权重** : 94.99  
             **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
             **添加日历** : https://ctftime.org/event/3112.ics  
+            
+
+        ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
+            **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-07-25 08:00:00 - 2026-07-27 08:00:00 UTC+8  
+            **比赛权重** : 69.35  
+            **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+            **添加日历** : https://ctftime.org/event/3148.ics  
             
 
         ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
