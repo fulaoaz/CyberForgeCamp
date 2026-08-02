@@ -39,16 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
-    [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
-    **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
-    **添加日历** : https://ctftime.org/event/3237.ics  
-    
-
 ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
     [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
     **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
@@ -97,6 +87,16 @@ hide:
     **比赛权重** : 25.00  
     **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
     **添加日历** : https://ctftime.org/event/3097.ics  
+    
+
+??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
+    [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
+    **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
+    **比赛权重** : 24.83  
+    **赛事主办** : K17 (https://ctftime.org/team/17058)  
+    **添加日历** : https://ctftime.org/event/3145.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
