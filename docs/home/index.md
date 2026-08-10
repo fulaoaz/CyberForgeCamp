@@ -39,16 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
-    [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
-    **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
-    **比赛权重** : 24.70  
-    **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
-    **添加日历** : https://ctftime.org/event/3052.ics  
-    
-
 ??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
     [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
     **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
@@ -97,6 +87,16 @@ hide:
     **比赛权重** : 24.83  
     **赛事主办** : K17 (https://ctftime.org/team/17058)  
     **添加日历** : https://ctftime.org/event/3145.ics  
+    
+
+??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
+    [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
+    **比赛名称** : [Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-27 22:00:00 - 2026-12-06 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
+    **添加日历** : https://ctftime.org/event/3020.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
