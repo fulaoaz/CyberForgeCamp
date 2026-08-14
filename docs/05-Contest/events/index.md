@@ -491,12 +491,6 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        暂无已录入赛事。
-
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
             [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
             **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
@@ -507,6 +501,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3181.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
             [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
             **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
