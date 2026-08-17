@@ -39,16 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
-    [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
-    **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
-    **添加日历** : https://ctftime.org/event/3181.ics  
-    
-
 ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
     [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
     **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
@@ -97,6 +87,16 @@ hide:
     **比赛权重** : 0  
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/3020.ics  
+    
+
+??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
+    [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
+    **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
+    **比赛权重** : 94.74  
+    **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
+    **添加日历** : https://ctftime.org/event/3207.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
