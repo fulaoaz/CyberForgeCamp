@@ -491,12 +491,6 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        暂无已录入赛事。
-
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
             [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
             **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
@@ -507,6 +501,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3033.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
             [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
             **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
