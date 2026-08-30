@@ -491,15 +491,7 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
-            [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
-            **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
-            **比赛权重** : 90.53  
-            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-            **添加日历** : https://ctftime.org/event/3033.ics  
-            
+        暂无已录入赛事。
 
 === "*即将开始*"
     === "国内赛事"
@@ -2225,7 +2217,17 @@ hide:
             **比赛时间** : 2026-08-21 20:00:00 - 2026-08-23 20:00:00 UTC+8  
             **比赛权重** : 24.66  
             **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
-            **添加日历** : https://ctftime.org/event/3065.ics
+            **添加日历** : https://ctftime.org/event/3065.ics  
+            
+
+        ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
+            [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
+            **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+            **比赛权重** : 90.53  
+            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+            **添加日历** : https://ctftime.org/event/3033.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
