@@ -39,16 +39,6 @@ hide:
 暂无已录入赛事。
 
 === "国外比赛"
-??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
-    [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
-    **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-05 00:00:00 - 2026-09-07 00:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
-    **添加日历** : https://ctftime.org/event/3097.ics  
-    
-
 ??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
     [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
     **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
@@ -97,6 +87,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
+    
+
+??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
+    [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
+    **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 17:00:00 - 2026-11-16 05:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
+    **添加日历** : https://ctftime.org/event/3082.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)
