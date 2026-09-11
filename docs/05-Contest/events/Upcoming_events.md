@@ -9,16 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
-    [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
-    **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
-    **比赛权重** : 24.83  
-    **赛事主办** : K17 (https://ctftime.org/team/17058)  
-    **添加日历** : https://ctftime.org/event/3145.ics  
-    
-
 ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
     [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
     **比赛名称** : [Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)  
