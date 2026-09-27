@@ -491,12 +491,6 @@ hide:
     === "国内赛事"
         暂无已录入赛事。
     === "国际赛事"
-        暂无已录入赛事。
-
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
             [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
             **比赛名称** : [Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)  
@@ -507,6 +501,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3020.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
             [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
             **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
