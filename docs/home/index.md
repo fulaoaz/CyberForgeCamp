@@ -49,16 +49,6 @@ hide:
     **添加日历** : https://ctftime.org/event/3020.ics  
     
 
-??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
-    [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
-    **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
-    **比赛权重** : 94.74  
-    **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-    **添加日历** : https://ctftime.org/event/3207.ics  
-    
-
 ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba/)"  
     [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba/)  
     **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba/)  
@@ -96,6 +86,16 @@ hide:
     **比赛权重** : 0.00  
     **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
     **添加日历** : https://ctftime.org/event/3118.ics  
+    
+
+??? Quote "[ASIS CTF Finals 2026](https://asisctf.com/)"  
+    [![](https://ctftime.org/media/events/asis_logo_2.png){ width="200" align=left }](https://asisctf.com/)  
+    **比赛名称** : [ASIS CTF Finals 2026](https://asisctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-27 22:00:00 - 2026-12-28 22:00:00 UTC+8  
+    **比赛权重** : 99.38  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/3062.ics  
     
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](../05-Contest/events/index.md)

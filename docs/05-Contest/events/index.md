@@ -501,16 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3020.ics  
             
 
-        ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
-            [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
-            **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
-            **比赛权重** : 94.74  
-            **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-            **添加日历** : https://ctftime.org/event/3207.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         暂无已录入赛事。
@@ -2225,7 +2215,17 @@ hide:
             **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
             **比赛权重** : 24.83  
             **赛事主办** : K17 (https://ctftime.org/team/17058)  
-            **添加日历** : https://ctftime.org/event/3145.ics
+            **添加日历** : https://ctftime.org/event/3145.ics  
+            
+
+        ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
+            [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
+            **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
+            **比赛权重** : 94.74  
+            **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
+            **添加日历** : https://ctftime.org/event/3207.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
