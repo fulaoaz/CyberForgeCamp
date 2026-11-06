@@ -501,10 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3020.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba/)"  
             [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba/)  
             **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba/)  
@@ -515,6 +511,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3242.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
             [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
             **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
