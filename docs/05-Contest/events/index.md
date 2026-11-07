@@ -501,16 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3020.ics  
             
 
-        ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba/)"  
-            [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba/)  
-            **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-07 02:15:00 - 2026-11-07 06:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
-            **添加日历** : https://ctftime.org/event/3242.ics  
-            
-
 === "*即将开始*"
     === "国内赛事"
         暂无已录入赛事。
@@ -2225,7 +2215,17 @@ hide:
             **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
             **比赛权重** : 94.74  
             **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-            **添加日历** : https://ctftime.org/event/3207.ics
+            **添加日历** : https://ctftime.org/event/3207.ics  
+            
+
+        ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba/)"  
+            [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba/)  
+            **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-07 02:15:00 - 2026-11-07 06:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
+            **添加日历** : https://ctftime.org/event/3242.ics
     <!-- 赛事内容部分_结束 -->
 </div>
   
