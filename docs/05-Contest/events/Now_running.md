@@ -26,4 +26,14 @@ comments: true
     **比赛时间** : 2026-11-14 07:00:00 - 2026-11-16 07:00:00 UTC+8  
     **比赛权重** : 0.00  
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
-    **添加日历** : https://ctftime.org/event/3049.ics
+    **添加日历** : https://ctftime.org/event/3049.ics  
+    
+
+??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
+    [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
+    **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 17:00:00 - 2026-11-16 05:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
+    **添加日历** : https://ctftime.org/event/3082.ics

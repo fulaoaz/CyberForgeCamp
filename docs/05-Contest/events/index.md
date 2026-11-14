@@ -511,10 +511,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3049.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
             [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
             **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
@@ -525,6 +521,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3082.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[SwampCTF 2026](https://ctf.swampctf.com/)"  
             **比赛名称** : [SwampCTF 2026](https://ctf.swampctf.com/)  
             **比赛形式** : Jeopardy  
