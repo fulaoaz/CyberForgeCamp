@@ -501,10 +501,6 @@ hide:
             **添加日历** : https://ctftime.org/event/3020.ics  
             
 
-=== "*即将开始*"
-    === "国内赛事"
-        暂无已录入赛事。
-    === "国际赛事"
         ??? Quote "[SwampCTF 2026](https://ctf.swampctf.com/)"  
             **比赛名称** : [SwampCTF 2026](https://ctf.swampctf.com/)  
             **比赛形式** : Jeopardy  
@@ -514,6 +510,10 @@ hide:
             **添加日历** : https://ctftime.org/event/3118.ics  
             
 
+=== "*即将开始*"
+    === "国内赛事"
+        暂无已录入赛事。
+    === "国际赛事"
         ??? Quote "[ASIS CTF Finals 2026](https://asisctf.com/)"  
             [![](https://ctftime.org/media/events/asis_logo_2.png){ width="200" align=left }](https://asisctf.com/)  
             **比赛名称** : [ASIS CTF Finals 2026](https://asisctf.com/)  
