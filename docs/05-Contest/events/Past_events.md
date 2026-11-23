@@ -1706,4 +1706,13 @@ comments: true
     **比赛时间** : 2026-11-14 17:00:00 - 2026-11-16 05:00:00 UTC+8  
     **比赛权重** : 37.00  
     **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
-    **添加日历** : https://ctftime.org/event/3082.ics
+    **添加日历** : https://ctftime.org/event/3082.ics  
+    
+
+??? Quote "[SwampCTF 2026](https://ctf.swampctf.com/)"  
+    **比赛名称** : [SwampCTF 2026](https://ctf.swampctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 05:00:00 - 2026-11-23 05:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
+    **添加日历** : https://ctftime.org/event/3118.ics
